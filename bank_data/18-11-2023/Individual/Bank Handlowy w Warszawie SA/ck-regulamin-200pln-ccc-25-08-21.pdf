@@ -1,0 +1,965 @@
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    
+
+    <!DOCTYPE html>
+<html lang='pl'>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="Author" content="Bank Handlowy w Warszawie S.A." />
+    <meta name="google-site-verification" content="MLRgiXNZRtN4xGHkHVsFt6rpIQb3sCkyWedZ62Edx4Y" />
+    <meta name="google-site-verification" content="-dpxSXKiVQslJlwyHLRmVntmIusgcFBVuN5Lhi_Kl4o" />
+
+    <link href="/images/layout/citi-icon-192x192.png" sizes="192x192" rel="shortcut icon">
+    <link href="/images/layout/citi-icon-192x192.png" sizes="192x192" rel="apple-touch-icon">
+
+    <link rel="stylesheet" href="/assets/styles/rd2022-priority.css" /> <!-- DDL LEGACY --> 
+
+    <script>
+        var PAGE_LANG = 'pl';
+        var CONFIG_RD = {
+            segment: 'citi-blue',
+            setSegmentFromCookie: false
+        };
+    </script>
+
+
+    
+
+    	<title>Citi Handlowy – pożyczki, kredyty, konta, karty kredytowe – Bank Handlowy w Warszawie S.A.</title>
+    <meta name="description" content="Citi Handlowy - sprawdź naszą ofertę produktów dopasowaną do Twoich potrzeb – karty kredytowe, konta osobiste, pożyczki, kredyty hipoteczne, Citi Specials." />
+    
+    <meta name="facebook-domain-verification" content="xk2e3up1utg2ti54r95ersafxa8gcf" />
+
+    <meta property="og:title" content="Citi Handlowy – pożyczki, kredyty, konta, karty kredytowe – Bank Handlowy w Warszawie S.A." />
+    <meta property="og:description" content="Citi Handlowy - sprawdź naszą ofertę produktów dopasowaną do Twoich potrzeb – karty kredytowe, konta osobiste, pożyczki, kredyty hipoteczne, Citi Specials." />
+    <meta property="og:image" content="/assets/images/1200x630/og-generic.jpg" />
+
+    <script>
+        var citiData = {
+            page: {
+                
+                    pageName: "PL:Public:Polish:Citi Handlowy – pożyczki, kredyty, konta, karty kredytowe – Bank Handlowy w Warszawie S.A.",
+                    language: "PL"
+                
+            },
+            product: {
+                
+                    productFamily: "",
+                    productSubCategory: "",
+                
+                productName: ""     
+            },
+            user: {
+                customerType: "<<Citiblue/Citipriority>>",
+                loginStatus: "Prospect",
+                audienceManagerID: "<<12345>>",
+                cCSID: "",
+                adobeID: "<<12345>>",
+                authState: ""
+            },
+            form: {
+                formStep: "<<Step of Form>>",
+                formType: "<<Type of Form>>",
+                formName: "<<Form Name>>",
+                leadId: "<<Lead id>>",
+                formId: "",
+                emgmId: ""
+            },
+            application: {
+                flowType: "",
+                additionalServicesOffered: "",
+                additionalServicesAccepted: "",
+                appStatus: "",
+                flowStep: "",
+                applicationId: "",
+                journeyName: "",
+                counterOffer: "",
+                crosssellOffer: "",
+                docUploadIndicator: "",
+                retreiveApplication: "",
+                savedApplication: "",
+                productOfferType: "",
+                statusInquiry: ""
+            }
+        } 
+    </script>
+    
+    <script>
+        (function() {
+            var href = window.location.href;
+            if (href.indexOf('#') === -1) {
+                // BAU flow
+                var theDomain = new String(location.hostname);
+                if (theDomain.indexOf('citigold.pl') >= 0) {
+                    window.location.href = "/private-banking/citigold/";
+                }
+            } else {
+                // RD flow
+                if (window.location.hash === '#!') {
+                    window.location.href = "/";
+                }
+            }
+        })();
+    </script>
+
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="NBEX4-Z2ZDK-UPQMK-9M6ZV-VT7EG",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"NBEX4-Z2ZDK-UPQMK-9M6ZV-VT7EG";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="l37o6ctik6s4ozkzhceq-f-15aa5be5d-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"36","ak.cp":"104329","ak.ai":parseInt("359486",10),"ak.ol":"0","ak.cr":45,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"52f6620","ak.r":24484,"ak.a2":n,"ak.m":"x","ak.n":"essl","ak.bpcip":"94.254.239.0","ak.cport":28251,"ak.gh":"2.18.29.44","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1700345993","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==tDHf8io/Kkkiy62VIAZ9rWK/TDccC4O6C9ggVdtCKt+Pld2WxX8+1SJzGxPQApYiWVGlmmV684CBkm5KWUdLG3C0GIjIQ1nAfl1VnU5JrgyVV2u+kX4+99QtcC95O1CS8oHhVVTYSCJiDB6dpfQUMgTjNAaW2W6Y84zEVik4Qq5we5iCfXeemA44MgskLkYpBtiNNenBzw0Crw4dIoCHbX97elwX21mzfcOEqJ7XhiuLiWlFqKiJ830m7kEvxBw/gIuaDju6vKbWkhSbUgWK6kyjeq1Z5TfrfcoDcysL0B6/UcVVUSuOAz72Wx1C1CzPzrnwTrQ9aCLKNlb2CljdHjYJufy0epqN8EAPV/j6J8kDGhNINevjvCuoOyFLN7QcNeEH2GSKDq181/uuv9sUe/IVh1lUK/CQnB5SeNMjfvo=","ak.pv":"50","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+<body data-segment='citi-blue'>
+    <div class="Preloader"></div>
+    <div id="CitiPage" class="CitiPage">
+         
+    <header class="MainHeader">
+    <nav class="Segments">
+        <div class="WidthWrapper" data-wide>
+                
+        <div class="segments-belt">
+    <ul class="nav navbar-nav navbar-segments pull-left">
+        <li class="segment-citi-blue">
+            <a href="/" title="Strona główna">Klient indywidualny</a>
+        </li>
+        <li class="segment-citi-gold">
+            <a href="/private-banking/citigold/" title="Citigold">Citigold</a>
+        </li>
+        <li class="segment-citi-gold-priority">
+            <a href="/private-banking/citigold-private-client/" title="Citigold Private Client">Citigold Private Client</a>
+        </li>
+        <li class="segment-citi-business">
+            <a href="/mikroprzedsiebiorstwa/" title="Mikroprzedsiębiorstwa">Mikroprzedsiębiorstwa</a>
+        </li>
+        <li class="">
+            <a href="/poland/corporate/polish/index.htm" title="Przedsiębiorstwa">Przedsiębiorstwa i korporacje</a>
+        </li>
+        <li class="segment-citi-bm">
+            <a href="/biuro-maklerskie/" title="Biuro Maklerskie">Biuro Maklerskie</a>
+        </li>
+    </ul>
+    <ul class="nav navbar-nav navbar-locales pull-right">
+        <li style="margin-right: 20px;"><a href="/kontakt/">Kontakt</a></li>
+         
+            <li style="margin-right: 20px;"><a href="/mapa-oddzialy-placowki-bankomaty-wplatomaty/">Oddziały</a></li>
+        
+        <li><a href='/en/' title="English">EN</a></li>
+    </ul>
+</div>
+    
+    
+        </div>  
+    </nav>
+    <div class="BlueBar">
+        <div class="WidthWrapper" data-wide>
+             
+                <a class="Logo" href="/"><img src="/assets/images/logos/citihandlowy.svg" alt="Citi Handlowy" /></a>
+            
+
+            
+
+            <button class="Burger"></button>
+        </div>
+    </div>   
+    <nav class="Menu"> 
+        <div class="WidthWrapper" data-wide>            
+            <ul class="ParentLevel">
+                <li>
+    <i class="expand-button"><span></span></i>
+    <a href="/karty-kredytowe/" title="Karty Kredytowe">Karty Kredytowe</a>
+    <div class="navbar-sub-menus">
+        <div class="navbar-sub-menus-wrapper">
+            <ul class="container-fluid">
+                <li><a href="/karty-kredytowe/citi-simplicity/" title="Citi Simplicity">Citi Simplicity</a></li>
+                <li><a href="/karty-kredytowe/oferty-specjalne/bp-motokarta-lp/?prid=ORGTOPMENU" title="Citibank – BP Motokarta">Citibank – BP Motokarta</a></li>
+                <li><a href="/karty-kredytowe/premier-miles/" title="PremierMiles">PremierMiles</a></li>
+                <li><a href="/karty-kredytowe/world-mastercard/" title="MasterCard World">MasterCard World</a></li>
+                <li><a href="/karty-kredytowe/world-elite-mastercard-ultime/" title="Ultime">Ultime</a></li>
+                <li><a href="/karty-kredytowe/oferty-specjalne/" title="Oferty Specjalne"><span class="new-star" style="margin-left: 0;"><svg width="18" height="18" id="color" enable-background="new 0 0 24 24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m23.363 8.584-7.378-1.127-3.307-7.044c-.247-.526-1.11-.526-1.357 0l-3.306 7.044-7.378 1.127c-.606.093-.848.83-.423 1.265l5.36 5.494-1.267 7.767c-.101.617.558 1.08 1.103.777l6.59-3.642 6.59 3.643c.54.3 1.205-.154 1.103-.777l-1.267-7.767 5.36-5.494c.425-.436.182-1.173-.423-1.266z" fill="#ffc107"></path></svg> Oferty Specjalne</span></a></li>
+                <li><a href="/przeslanie_dokumentow/" title="Prześlij dokumenty">Prześlij dokumenty</a></li>
+                <li class="star-polec-karte"><a href="/karty-kredytowe/oferty-specjalne/mgm-polecam-lp/?prid=dropdown" title="Poleć kartę">Poleć kartę</a></li>
+                <li class="star-polec-karte"><a href="/polecenie/?prid=dropdown" title="Skorzystaj z polecenia">Skorzystaj z polecenia</a></li>
+            </ul>
+        </div>
+    </div>
+</li>
+<li>
+    <i class="expand-button"><span></span></i>
+    <a href="/konta-osobiste/?prid=kontaosobiste" title="Konta">Konta</a>
+    <div class="navbar-sub-menus">
+        <div class="navbar-sub-menus-wrapper">
+            <ul class="container-fluid">
+                <li><a href="/konta-osobiste/" title="Otwórz Konto">Otwórz Konto</a></li>
+                <li><a href="/konta/karta-do-konta.html" title="Karta do konta">Karta do konta</a></li>
+                <li><a href="/konta-osobiste/produkty-walutowe/konto-walutowe/" title="Konto Walutowe">Konto Walutowe</a></li>
+                <li><a href="/konta-osobiste/produkty-walutowe/global-wallet/" title="Citibank Global Wallet">Citibank Global Wallet</a></li>
+                <li><a href="/konta-osobiste/globalna-bankowosc/" title="Globalna Bankowość">Globalna Bankowość</a></li>
+                <li><a href="/konta-osobiste/produkty-oszczednosciowe/" title="OSZCZĘDZANIE">Oszczędzanie</a></li>
+                <li><a href="/konta-osobiste/#oferty" title="Oferty Specjalne"><span class="new-star" style="margin-left: 0;"><svg width="18" height="18" id="color" enable-background="new 0 0 24 24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m23.363 8.584-7.378-1.127-3.307-7.044c-.247-.526-1.11-.526-1.357 0l-3.306 7.044-7.378 1.127c-.606.093-.848.83-.423 1.265l5.36 5.494-1.267 7.767c-.101.617.558 1.08 1.103.777l6.59-3.642 6.59 3.643c.54.3 1.205-.154 1.103-.777l-1.267-7.767 5.36-5.494c.425-.436.182-1.173-.423-1.266z" fill="#ffc107"></path></svg> Oferty Specjalne</span></a></li>
+            </ul>
+        </div>
+    </div>
+</li>
+<li>
+    <i class="expand-button"><span></span></i>
+    <a href="/kredyty/" title="Kredyty">Kredyty</a>
+    <div class="navbar-sub-menus">
+        <div class="navbar-sub-menus-wrapper">
+            <ul class="container-fluid">
+                <li><a href="/kredyty/pozyczka-gotowkowa/" title="Pożyczka Gotówkowa">Pożyczka Gotówkowa</a></li>
+                <li><a href="/kredyty/pozyczka-z-karty/" title="Przelew na raty">Przelew na raty</a></li>
+                <li><a href="/kredyty/pozyczka-do-karty/" title="Pożyczka do Karty">Pożyczka do Karty</a></li>
+                <li><a href="/kredyty/pozyczka-konsolidacyjna/" title="Pożyczka Konsolidacyjna">Pożyczka Konsolidacyjna</a></li>
+                <li><a href="/kredyty/kredyt-hipoteczny/" title="Kredyt hipoteczny">Kredyt hipoteczny</a></li>
+                <li><a href="/kredyty/raty-w-karcie/" title="Raty w Karcie">Raty w Karcie</a></li>
+                <li><a href="/kredyty/linia-kredytowa/" title="Linia Kredytowa">Linia Kredytowa</a></li>
+            </ul>
+        </div>
+    </div>
+</li>
+<li>
+    <i class="expand-button"><span></span></i>
+    <a href="/inwestycje/" title="Inwestowanie">Inwestowanie</a>
+    <div class="navbar-sub-menus">
+        <div class="navbar-sub-menus-wrapper">
+            <ul class="container-fluid">
+                <li><a href="/private-banking/citigold/doradztwo/" title="Dla Citigold">Dla Citigold</a></li>
+                <li><a href="/private-banking/citigold-private-client/inwestycje/" title="Dla Citi Private Client">Dla Citigold Private Client</a></li>
+                <li><a href="/biuro-maklerskie/" title="Usługi Maklerskie">Usługi Maklerskie</a></li>
+                <li><a href="/wirtualne-seminarium-lp/" title="Produkty Inwestycyjne">Webinarium</a></li>
+                <li><a href="/inwestycje/produkty-inwestycyjne/" title="Produkty Inwestycyjne">Produkty Inwestycyjne</a></li>
+                <li><a href="/private-banking/citigold/bardzo-mocny-duet-lp/" target="_blank" title="Produkty Inwestycyjne">Oferty specjalne</a></li>
+                
+            </ul>
+        </div>
+    </div>
+</li>
+<li>
+    <a href="/konta-osobiste/produkty-walutowe/citi-kantor/" title="Citi Kantor">Kantor</a>
+</li>
+<li>
+    <i class="expand-button"><span></span></i>
+    <a href="/ubezpieczenia/" title="Ubezpieczenia">Ubezpieczenia</a>
+    <div class="navbar-sub-menus">
+        <div class="navbar-sub-menus-wrapper">
+            <ul class="container-fluid">
+                <li><a href="/ubezpieczenia/inwestycje-i-oszczedzanie/" title="Ubezpieczenia Inwestycyjne i Oszczędnościowe">Ubezpieczenia Inwestycyjne i&#160;Oszczędnościowe</a></li>
+                <li><a href="/ubezpieczenia/ochronne/" title="Ubezpieczenia ochronne">Ubezpieczenia ochronne</a></li>
+                <li><a href="/ubezpieczenia/ochronne/podrozne/" title="Ubezpieczenie podróżne">Ubezpieczenie podróżne</a></li>
+                <li><a href="/ubezpieczenia/ochronne/bezpieczne-raty/" title="Ubezpieczenie do pożyczki gotówkowej">Ubezpieczenie do pożyczki gotówkowej</a></li>
+                <li><a href="/ubezpieczenia/ochronne/credit-shield/" title="Ubezpieczenie do karty kredytowej">Ubezpieczenie do karty kredytowej</a></li>
+                <li><a href="/polish/insurance/kalkulator/driving-Protection.htm" title="Kalkulator potrzeb ubezpieczeniowych">Kalkulator potrzeb ubezpieczeniowych</a></li>
+            </ul>
+        </div>
+    </div>
+</li>
+<li>
+    <i class="expand-button"><span></span></i>
+    <a href="/uslugi-online/" title="E-bankowość">E-bankowość</a>
+    <div class="navbar-sub-menus">
+        <div class="navbar-sub-menus-wrapper">
+            <ul class="container-fluid">
+                <li><a href="/uslugi-online/push/" title="Powiadomienia Push">Powiadomienia Push</a></li>
+                <li><a href="/uslugi-online/bankowosc-mobilna/" title="Aplikacja Citi Mobile">Aplikacja Citi Mobile</a></li>
+                <li><a href="/uslugi-online/platnosci-internetowe/" title="Płatności w Internecie">Płatności w Internecie</a></li>
+                <li><a href="/uslugi-online/autoryzacja-mobilna/" title="Autoryzacja Mobilna">Autoryzacja Mobilna</a></li>
+                <li><a href="/uslugi-online/apple-pay/" title="Apple Pay">Apple Pay</a></li>
+                <li><a href="/uslugi-online/google-pay/" title="Google Pay">Google Pay</a></li>
+                <li><a href="/uslugi-online/blik/" title="BLIK">BLIK</a></li>
+                <li><a href="/uslugi-online/bezpieczenstwo/" title="Bezpieczeństwo">Bezpieczeństwo</a></li>
+                <li><a href="/aktualizacja-danych/" title="Aktualizacja danych">Aktualizacja danych</a></li>
+            </ul>
+        </div>
+    </div>
+</li>
+<li>
+    <i class="expand-button"><span></span></i>
+    <a href="/citispecials/" title="Citi Specials">Citi Specials</a>
+    <div class="navbar-sub-menus">
+        <div class="navbar-sub-menus-wrapper">
+            <ul class="container-fluid">
+                <li><a href="/citispecials/#LatestSpecialsReplace" title="Nowości"><span class="new-star" style="margin-left: 0;"><svg width="18" height="18" id="color" enable-background="new 0 0 24 24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m23.363 8.584-7.378-1.127-3.307-7.044c-.247-.526-1.11-.526-1.357 0l-3.306 7.044-7.378 1.127c-.606.093-.848.83-.423 1.265l5.36 5.494-1.267 7.767c-.101.617.558 1.08 1.103.777l6.59-3.642 6.59 3.643c.54.3 1.205-.154 1.103-.777l-1.267-7.767 5.36-5.494c.425-.436.182-1.173-.423-1.266z" fill="#ffc107"></path></svg> NOWOŚCI</span></a></li>
+                <li><a href="/citispecials/podroze.html" title="Podróże">Podróże</a></li>
+                <li><a href="/citispecials/restauracje.html" title="Kulinaria">Kulinaria</a></li>
+                <li><a href="/citispecials/sztuka-i-rozrywka.html" title="Rozrywka">Rozrywka</a></li>
+                <li><a href="/citispecials/zakupy.html" title="Zakupy">Zakupy</a></li>
+                <li><a href="/citispecials/sport-i-zdrowie.html" title="Sport i zdrowie">Sport i zdrowie</a></li>
+                <li><a href="/citispecials/priceless-specials.html" title="Bezcenne Chwile">Bezcenne Chwile</a></li>
+                <li><a href="/citispecials/sztuka-i-rozrywka/presale.html" title="Przedsprzedaże">Przedsprzedaże</a></li>
+            </ul>
+        </div>
+    </div>
+</li>
+            </ul>
+            
+            <div class="CTADropdowns">
+                 
+                    
+<div class="BecomeClientDropdown">
+    <div class="Invoke">
+        <button>Zostań klientem</button>
+    </div>
+    <nav class="Content">
+        <ul>
+                         
+                <li><a href="/konta-osobiste/#oferty"><div><img src="/assets/icons/become-1.svg" alt="" /></div><span>Otwórz konto</span></a></li>
+                <li><a href="/karty-kredytowe/"><div><img src="/assets/icons/become-2.svg" alt="" /></div><span>Aplikuj o kartę</span></a></li>
+                <li><a href="/kredyty/pozyczka-gotowkowa/"><div><img src="/assets/icons/become-3.svg" alt="" /></div><span>Weź pożyczkę</span></a></li>
+                <li><a data-invoke-secondary-menu="RetrieveApplication" href="#"><div><img src="/assets/icons/become-3.svg" alt="" /></div><span>Dokończ wniosek</span></a></li>
+            
+        </ul>
+        <ul data-secondary-menu="RetrieveApplication">              
+            <li><a href="/wznowienie-aplikacji/?product=account"><div><img src="/assets/icons/become-1.svg" alt="" /></div><span>Konto osobiste</span></a></li>
+            <li><a href="https://citibankonline.pl/roca/services/api/application/search?LV=PL&locale=pl"><div><img src="/assets/icons/become-2.svg" alt="" /></div><span>Karta kredytowa</span></a></li>
+            <li><a href="https://citibankonline.pl/roca/services/api/application/search?LV=PL&locale=pl"><div><img src="/assets/icons/become-3.svg" alt="" /></div><span>Pożyczka gotówkowa</span></a></li>
+        </ul>
+    </nav>
+</div>
+<div class="LoginDropdown">
+    <div class="Invoke">
+        <button>Zaloguj się</button>
+    </div>
+    <nav class="Content">
+        <div class="AppCta">
+            <img class="Desktop" src="/assets/images/other/app-qr.jpg" alt="Zeskanuj kod QR swoim telefonem i pobierz aplikację" />
+            <a class="Apple" href="https://itunes.apple.com/pl/app/citi-handlowy/id421359287?mt=8" target="_blank"><img src="/assets/images/other/app-apple.jpg" alt="Pobierz aplikację" /></a>
+            <a class="Android" href="https://play.google.com/store/apps/details?id=com.konylabs.cbplpat&hl=PL" target="_blank"><img src="/assets/images/other/app-android.jpg" alt="Pobierz aplikację" /></a>
+        </div>
+        <ul>
+            <li><a target="_blank" href="https://www.citibankonline.pl/apps/auth/signin/?_Locale=pl" class="LogButton"><div>Citibank Online</div><span>Klienci indywidualni i przedsiębiorcy</span></a></li>
+            <li><a target="_blank" href="/biuro-maklerskie/"><div>DMBH Online</div><span>Klienci Biura Maklerskiego</span></a></li>
+            <li><a target="_blank" href="https://portal.citidirect.com/"><div>CitiDirect BE</div><span>Korporacje, przedsiębiorstwa, samorządy</span></a></li>
+            <li><a target="_blank" href="https://m.citidirect.com/"><div>CitiDirect BE Mobile</div><span>Korporacje, przedsiębiorstwa, samorządy</span></a></li>
+        </ul>
+    </nav>
+</div>
+
+                
+            </div>
+        </div>
+    </nav>
+</header>
+
+            
+  
+
+
+
+  
+
+
+            
+        <main>
+            <!-- Content - Begin -->     
+            <section class="Section Section__Emergency" data-source="/assets/content/homepage/emergency-pl.json">
+                <div class="WidthWrapper" data-mobile-nopadding>
+                    <div class="Box">
+                        <div data-dynamic-message></div>
+                        <button class="Close"></button>
+                    </div>
+                </div>        
+            </section>
+            <section class="Section Section__HeroRotator" data-source="/assets/content/homepage/hero-pl.json">
+                <div class="Carousel" data-dynamic-items>
+                    <script class="Template" type="text/template">
+                        {{for Entries ~Settings=Settings}}
+                            <div class="Item">
+                                <img src="{{>~Settings.DesktopImagesDir}}{{:Image}}" alt="{{:Alt}}" class="DesktopImage" />
+                                <img src="{{>~Settings.MobileImagesDir}}{{:Image}}" alt="{{:Alt}}" class="MobileImage" />
+                                <div class="WidthWrapper">
+                                    <div class="Box"{{if TextClass}} data-style="{{:TextClass}}"{{/if}}>
+                                        {{if #getIndex() == 0}}
+                                            <h1 data-style-text="Header-1">{{:Title}}</h1>
+                                        {{else}}
+                                            <h2 data-style-text="Header-1">{{:Title}}</h2>
+                                        {{/if}}
+                                        {{if Description}}<p data-style-text="Text">{{:Description}}</p>{{/if}}
+                                        <div class="InlineButtons">
+                                            {{if PrimaryLink && PrimaryAnchor}}<a href="{{:PrimaryLink}}" class="Button" data-button="CTA">{{:PrimaryAnchor}}</a>{{/if}}
+                                            {{if SecondaryLink && SecondaryAnchor}}<a href="{{:SecondaryLink}}" class="Button" data-button="Check">{{:SecondaryAnchor}}</a>{{/if}}
+                                        </div>
+                                        {{if Disclaimer}}<p data-style-text="Disclaimer">{{:Disclaimer}}</p>{{/if}}
+                                    </div>
+                                </div>
+                            </div>
+                        {{/for}}
+                    </script>
+                </div>
+                <div class="NavWrapper">
+                    <div class="WidthWrapper">
+                        <ul class="Nav" data-dynamic-nav>
+                            <script class="Template" type="text/template">                            
+                                {{for Entries}}
+                                <li>
+                                    <button><span>{{:Name}}</span></button>
+                                </li>
+                                {{/for}}
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+            <section class="Section Section__ThreeBoxesBlue" data-source="/assets/content/homepage/threeoffers-pl.json">
+                <div class="WidthWrapper">
+                    <div class="Carousel" data-dynamic-items>
+                        <script class="Template" type="text/template">
+                            {{for Entries ~Settings=Settings}}
+                                <div class="Item">
+                                    <div class="Wrapper">
+                                        <div class="Box">
+                                            <!-- <img src="{{>~Settings.ImagesDir}}{{:Image}}" class="Image" alt="{{:Alt}}" /> -->
+                                            <h3 data-style-text="Header-2">{{:Title}}</h3>            
+                                            {{if Description}}<p>{{:Description}}</p>{{/if}}
+                                            <div class="Bottom">
+                                                <div class="InlineButtons" data-align="Center">
+                                                    <a href="{{:Link}}" class="Button" data-button="WhiteCTA">{{:Anchor}}</a>
+                                                </div>
+                                                {{if Tooltip && TooltipContent}}
+                                                    <div data-style-text="Disclaimer">{{:TooltipContent}}</div>
+                                                    <!--<div class="ToolTip">
+                                                        <span>{{:Tooltip}}</span>
+                                                        <div class="Content">{{:TooltipContent}}</div>
+                                                    </div>-->
+                                                {{else}}
+                                                    <div><br /></div>
+                                                {{/if}}
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            {{/for}}
+                        </script>
+                    </div>
+                </div>
+            </section>
+            <section class="Section Section__InfoBoxes" data-source="/assets/content/homepage/infos-pl.json">
+                <div class="WidthWrapper">
+                    <div class="List" data-dynamic-items>
+                        <script class="Template" type="text/template">  
+                            {{for Entries ~Settings=Settings}}                      
+                                <div class="Item">
+                                    <div class="Left">
+                                        <img src="{{>~Settings.ImagesDir}}{{:Image}}" class="Image" alt="{{:Alt}}" />
+                                    </div>
+                                    <div class="Right">
+                                        <h3 data-style-text="Header-5">{{:Title}}</h3>
+                                        {{if Anchor}}<a href="{{:Link}}" class="Button" data-button="Check">{{:Anchor}}</a>{{/if}}
+                                    </div>
+                                </div>
+                            {{/for}}
+                        </script>
+                    </div>
+                </div>
+            </section>
+            <section class="Section Section__SimpleCalculator" data-ammount-min="1000" data-ammount-max="150000" data-ammount-start="40000" data-ammount-step="1000" data-commission="0.0" data-interest="11.99">
+                <div class="WidthWrapper" data-background="Gray">
+                    <h2 data-style-text="Header-1">Kalkulator pożyczki</h2>
+                    <div class="Calculator">
+                        <div class="Parameters">
+                            <div class="SliderInput" data-inputslider="Ammount">
+                                <div class="Head">
+                                    <h3 data-style-text="Header-3">Jaka kwota?</h3>
+                                    <div class="ValueWrapper">
+                                        <input type="text" data-dynamic="Value" class="Value" /><span>zł</span>
+                                    </div>
+                                </div>
+                                <div class="Slide">
+                                    <div class="Input"></div>
+                                    <div class="Limits">
+                                        <div class="Min">1 000 zł</div>
+                                        <div class="Max">150 000 zł</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="SliderInput" data-inputslider="Period">
+                                <div class="Head">
+                                    <h3 data-style-text="Header-3">Na jak długo?</h3>
+                                    <div class="ValueWrapper">
+                                        <select class="Value" data-dynamic="Value">
+                                            <option value="9">9 miesięcy</option>
+                                            <option value="12">12 miesięcy</option>
+                                            <option value="18">18 miesięcy</option>
+                                            <option value="24">24 miesiące</option>
+                                            <option value="30">30 miesięcy</option>
+                                            <option value="36">36 miesięcy</option>
+                                            <option value="48">48 miesięcy</option>
+                                            <option value="60">60 miesięcy</option>
+                                            <!-- <option value="72">72 miesiące</option>
+                                            <option value="84">84 miesiące</option>
+                                            <option value="96">96 miesięcy</option> -->
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="Slide">
+                                    <div class="Input"></div>
+                                    <div class="Limits">
+                                        <div class="Min">9 miesięcy</div>
+                                        <div class="Max">60 miesięcy</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="Results" data-background="Blue">
+                            <h3 data-style-text="Header-1">Pożyczka gotówkowa bez prowizji. <span data-rrso="mini-cash-loan-special"></span></h3>
+                            <p data-style-text="Disclaimer">0zł prowizji dla nowych klientów. Oferta ważna do 30.11.2023&nbsp;r.</p>
+                            <div class="Installment">
+                                <span class="Label" data-style-text="Header-3">Rata miesięczna:</span>
+                                <span class="Value" data-style-text="Header-0" data-dynamic="Installment">2,273 zł</span>
+                            </div>
+                            <div class="InlineButtons">
+                                <a href="https://citibankonline.pl/roca/services/api/product/apply?LV=PL&locale=pl&prd=PKNA&pf=AMLN&srcd=PXWXXXXX&epi=direct&mdId=calc&ecid=hpcalc#" class="Button" data-button="CTA">Złóż wniosek online</a>
+                                <a href="/kredyty/pozyczka-gotowkowa/online0-lp/?prid=hpcalc" class="Button" data-button="Check">Sprawdź koszty kredytu</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="Section Section__OfferBoxes" data-source="/assets/content/homepage/banners-pl.json">
+                <div class="WidthWrapper">
+                    <h2 data-style-text="Header-1">Najnowsze korzyści!</h2>
+                    <div class="List" data-dynamic-items>
+                        <script class="Template" type="text/template">                        
+                            {{for Entries ~Settings=Settings}}                    
+                                <div class="Item">
+                                    <img src="{{>~Settings.DesktopImagesDir}}{{:Image}}" alt="{{:Alt}}" class="Image DesktopImage" />
+                                    <img src="{{>~Settings.MobileImagesDir}}{{:Image}}" alt="{{:Alt}}" class="Image MobileImage" />
+                                    <div class="Box">
+                                        {{if Subtitle}}<div class="Subtitle" data-style-text="Header-5U">{{:Subtitle}}</div>{{/if}}
+                                        {{if Title}}<h3 data-style-text="Header-2">{{:Title}}</h3>{{/if}}
+                                        {{if Description}}<p data-style-text="TextBig">{{:Description}}</p>{{/if}}
+                                        {{if Disclaimer}}<p data-style-text="Disclaimer">{{:Disclaimer}}</p>{{/if}}
+                                        <div class="InlineButtons">
+                                            {{if PrimaryLink && PrimaryAnchor}}<a href="{{:PrimaryLink}}" class="Button" data-button="CTA">{{:PrimaryAnchor}}</a>{{/if}}
+                                            {{if SecondaryLink && SecondaryAnchor}}<a href="{{:SecondaryLink}}" class="Button" data-button="Check">{{:SecondaryAnchor}}</a>{{/if}}
+                                        </div>
+                                    </div>
+                                </div>
+                            {{/for}}
+                        </script>
+                    </div>
+                </div>
+            </section>
+            <section class="Section Section__ThreeBoxes" data-source="/assets/content/homepage/threeoffersbottom-pl.json">
+                <div class="WidthWrapper" data-background="CitiBlue">
+                    <h2 data-style-text="Header-1">Ważne dla Ciebie</h2>
+                    <div class="Carousel" data-dynamic-items>
+                        <script class="Template" type="text/template">
+                            {{for Entries ~Settings=Settings}}
+                                <div class="Item">
+                                    <div class="Wrapper">
+                                        <div class="Box">
+                                            <img src="{{>~Settings.ImagesDir}}{{:Image}}" class="Image" alt="{{:Alt}}" />
+                                            <h3 data-style-text="Header-3">{{:Title}}</h3>            
+                                            {{if Description}}<p>{{:Description}}</p>{{/if}}
+                                            <div class="Bottom">
+                                                <div class="InlineButtons" data-align="Center">
+                                                    <a href="{{:Link}}" class="Button" data-button="CTA">{{:Anchor}}</a>
+                                                </div>
+                                                {{if Tooltip && TooltipContent}}
+                                                    <div data-style-text="Disclaimer">{{:TooltipContent}}</div>
+                                                    <!--<div class="ToolTip">
+                                                        <span>{{:Tooltip}}</span>
+                                                        <div class="Content">{{:TooltipContent}}</div>
+                                                    </div>-->
+                                                {{else}}
+                                                    <div><br /></div>
+                                                {{/if}}
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            {{/for}}
+                        </script>
+                    </div>   
+                </div>       
+            </section>
+
+            <div class="WidthWrapper">
+                <div class="row row-stretch">
+                    <div class="col-xs-12 col-sm-6">
+                        <section class="Section Section__FxRates">
+                            <h2 data-style-text="Header-1">Kursy walut</h2>                    
+                            <p data-style-text="Disclaimer">Kursy dla CitiKonta <span data-dynamic="RefreshTime"></span></p>
+                            <table class="Table">
+                                <tr>
+                                    <th></th>
+                                    <th>Kupno</th>
+                                    <th>Sprzedaż</th>
+                                </tr>
+                                <tr>
+                                    <td>EUR</td>
+                                    <td data-dynamic-fxcurrency="EUR" data-dynamic-fxtype="BUY"></div>
+                                    <td data-dynamic-fxcurrency="EUR" data-dynamic-fxtype="SELL"></div>
+                                </tr>
+                                <tr>
+                                    <td>USD</td>
+                                    <td data-dynamic-fxcurrency="USD" data-dynamic-fxtype="BUY"></div>
+                                    <td data-dynamic-fxcurrency="USD" data-dynamic-fxtype="SELL"></div>
+                                </tr>
+                                <tr>
+                                    <td>CHF</td>
+                                    <td data-dynamic-fxcurrency="CHF" data-dynamic-fxtype="BUY"></div>
+                                    <td data-dynamic-fxcurrency="CHF" data-dynamic-fxtype="SELL"></div>
+                                </tr>
+                                <tr>
+                                    <td>GBP</td>
+                                    <td data-dynamic-fxcurrency="GBP" data-dynamic-fxtype="BUY"></div>
+                                    <td data-dynamic-fxcurrency="GBP" data-dynamic-fxtype="SELL"></div>
+                                </tr>
+                            </table>
+                            <div class="InlineButtons">
+                                <a href="/konta-osobiste/produkty-walutowe/kursy-walut/" class="Button" data-button="Primary">Pokaż wszystkie</a>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="col-xs-12 col-sm-6">
+                        <section class="Section Section__NewsPreview" data-source="/assets/content/news/news-pl.json">
+                            <h2 data-style-text="Header-1">Aktualności</h2>  
+                            <ul class="List" data-dynamic-items>
+                                <script class="Template" type="text/template">
+                                    {{for Entries end=3}}
+                                        <li>
+                                            <a href="{{:Link}}">
+                                                <div class="Date">
+                                                    <span class="Day">{{:Day}}</span>
+                                                    <span class="Month ">{{:Month}}</span>
+                                                </div>
+                                                <div class="Content">
+                                                    <h3 data-style-text="Text">{{:Title}}</h3>
+                                                </div>
+                                            </a>
+                                        </li>
+                                    {{/for}}
+                                </script>
+                            </ul>
+                            <div class="InlineButtons">
+                                <a href="/aktualnosci/" class="Button" data-button="Primary">Więcej</a>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+
+            <section class="Section Section__Awards">
+                <div class="WidthWrapper">
+                    <h2 data-style-text="Header-1">Najważniejsze nagrody i&nbsp;osiągnięcia</h2>  
+                </div>
+                <div class="WidthWrapper" data-mobile-nopadding>
+                    <div class="Carousel">
+                        <div class="Item">
+                            <h3 data-style-text="Header-4U">RATING FORBES 2020</h3>
+                            <img src="/assets/images/170x100/award-forbes.jpg" alt="Nagroda Forbes" />
+                            <p>5 gwiazdek dla naszej bankowości prywatnej.</p>
+                        </div>
+                        <div class="Item">
+                            <h3 data-style-text="Header-4U">EUROMONEY 2023</h3>
+                            <img src="/assets/images/170x100/award-euromoney2023.jpg" alt="Nagroda Euromoney" />
+                            <p>Lider usług bankowości prywatnej.</p>
+                        </div>
+                        <div class="Item">
+                            <h3 data-style-text="Header-4U">ZŁOTY BANKIER</h3>
+                            <img src="/assets/images/170x100/award-bankier2021.jpg" alt="Nagroda Złoty Bankier" />
+                            <p>7 lat z rzędu najlepsza karta kredytowa.</p>
+                        </div>
+                        <div class="Item">
+                            <h3 data-style-text="Header-4U">DIVERSITY IN CHECK</h3>
+                            <img src="/assets/images/170x100/award-diversity.jpg" alt="Nagroda Global Finance" />
+                            <p>Za działania na rzecz różnorodności.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <div class="Sticky__CTA" data-dynamic-content data-source="/assets/content/homepage/cta-pl.json">
+                <script class="Template" type="text/template">
+                    <div class="Wrapper" style="width:{{:Data.DesktopWidth}};">
+                        <img class="Image" src="{{:Settings.ImagesDir}}{{:Data.Image}}" alt="{{:Alt}}" />
+                        <div class="Box">
+                            <div class="Message" data-style-text="TextBig">{{:Data.Message}}</div>
+                            <a href="{{:Data.Link}}" class="Button" data-button="Check">{{:Data.Anchor}}</a>
+                            <button class="Close"></button>
+                        </div>
+                    </div>
+                </script>
+            </div>
+            <!-- Content - End -->
+        </main>
+    </div>
+    <div class="cbolui-ddl"><div class="theme-light cata-full-width modules no-mainContentPad"> <!-- LEGACY -->
+        
+<footer id="app-footer" class="app-footer-bg">
+  <div class="container-fluid">
+    <div class="app-footer">
+      <!-- FOOTER TOP LINE -->
+      <div id="subapp-footer-top">
+        <div class="row">
+          <div class="col-xs-2 col-sm-2 col-md-2">
+            <img class="logo-mini" src="/images/layout/citi-logo-mini.svg" alt="Citi Handlowy" />
+          </div>
+          <div class="col-xs-7 col-xs-offset-2 col-sm-4 col-sm-offset-5 col-md-4 col-md-offset-6">
+            <div class="footer-icon-grid">
+              <a href="https://www.facebook.com/Citihandlowy/" target="_blank">
+                <span class="footer-icon footer-icon-facebook"></span>
+              </a>
+              <a href="https://twitter.com/citi_handlowy" target="_blank">
+                <span class="footer-icon footer-icon-twitter"></span>
+              </a>
+              <a href="https://www.youtube.com/user/CitiHandlowy" target="_blank">
+                <span class="footer-icon footer-icon-youtube"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion menu accordion-footer cbolui-accordion-initialize accordionToColumns" role="tablist" data-prevent-auto-scroll="true">
+          <ul class="mainnav" aria-multiselectable="true" role="tablist">
+              <!--New tab-->
+              <li class="level1 parent">
+                  <span class="category" style="padding-top:0px;">
+                  <svg class="svg-arrow"></svg>
+                  <span role="tab" id="footerAccordionHeader1-a" tabindex="0" aria-expanded="false" aria-controls="footerAccordionPanel1-a" aria-selected="false" data-title="Select to display" class="category-title"></span>
+                      <span class="footer-h"><b>O banku</b></span>
+                  </span>
+                  <div class="accordionSubMenu" aria-labelledby="footerAccordionHeader1-a" role="tabpanel" id="footerAccordionPanel1-a" aria-hidden="true">
+                      <ul>
+                          <li><a href="/poland/homepage/polish/o-banku.htm" target="_blank">O nas</a></li>
+                          <li><a href="/poland/homepage/polish/relacje-inwestorskie.htm" target="_blank">Relacje inwestorskie</a></li>
+                          <li><a href="/poland/kronenberg/polish/index.htm" target="_blank">Fundacja Kronenberga</a></li>
+                          <li><a href="/poland/kariera/index.htm" target="_blank">Kariera</a></li>
+                      </ul>
+                  </div>
+              </li>
+              
+              <!--New tab-->
+              <li class="level1 parent">
+                  <span class="category" style="padding-top:0px;">
+                  <svg class="svg-arrow"></svg>
+                  <span role="tab" id="footerAccordionHeader1-b" tabindex="0" aria-expanded="false" aria-controls="footerAccordionPanel1-b" aria-selected="false" data-title="Select to display" class="category-title"></span>
+                      <span class="footer-h"><b>Informacje</b></span>
+                  </span>
+                  <div class="accordionSubMenu" aria-labelledby="footerAccordionHeader1-b" role="tabpanel" id="footerAccordionPanel1-b" aria-hidden="true">
+                      <ul>
+                          <li><a href="/poland/homepage/polish/press1/informacje-prasowe.htm" target="_blank">Biuro prasowe</a></li>
+                          <li><a href="/poland/homepage/polish/aktualnosci.htm" target="_blank">Aktualności</a></li>
+                          <li><a href="/poland/homepage/polish/kursy-walut.htm">Kursy Walut</a></li>
+                          <li><a href="https://magazyn.citibank.pl/" target="_blank">Magazyn</a></li>
+                          <li><a href="/uslugi-online/rodo/">RODO</a></li>
+                      </ul>
+                  </div>
+              </li>
+
+              <!--New tab-->
+              <li class="level1 parent">
+                  <span class="category" style="padding-top:0px;">
+                  <svg class="svg-arrow"></svg>
+                  <span role="tab" id="footerAccordionHeader1-c" tabindex="0" aria-expanded="false" aria-controls="footerAccordionPanel1-c" aria-selected="false" data-title="Select to display" class="category-title"></span>
+                      <span class="footer-h"><b>Bankowość Elektroniczna</b></span>
+                  </span>
+                  <div class="accordionSubMenu" aria-labelledby="footerAccordionHeader1-c" role="tabpanel" id="footerAccordionPanel1-c" aria-hidden="true">
+                      <ul>
+                          <li><a href="/uslugi-online/">Bankowość internetowa</a></li>
+                          <li><a href="/uslugi-online/bankowosc-mobilna/" target="_blank">Dostęp mobilny</a></li>
+                          <li><a href="/poland/corporate/polish/bankowosc-elektroniczna.htm" target="_blank">Citi Direct</a></li>
+                          <li><a href="/biuro-maklerskie/" target="_blank">Biuro Maklerskie Citi Handlowy</a></li>
+                          <li><a href="/uslugi-online/dyrektywa-psd2/" target="_blank">Dyrektywa PSD2 i otwarta bankowość</a></li>
+                      </ul>
+                  </div>
+              </li>
+
+              <!--New tab-->
+              <li class="level1 parent">
+                  <span class="category" style="padding-top:0px;">
+                  <svg class="svg-arrow"></svg>
+                  <span role="tab" id="footerAccordionHeader1-d" tabindex="0" aria-expanded="false" aria-controls="footerAccordionPanel1-d" aria-selected="false" data-title="Select to display" class="category-title"></span>
+                      <span class="footer-h"><b>Przydatne Informacje</b></span>
+                  </span>
+                  <div class="accordionSubMenu" aria-labelledby="footerAccordionHeader1-d" role="tabpanel" id="footerAccordionPanel1-d" aria-hidden="true">
+                      <ul>
+                          <li><a href="/dokumenty/">Dokumenty</a></li>
+                          <li><a href="/oprocentowanie/">Oprocentowanie</a></li>
+                          <li><a href="/poland/homepage/polish/mifid-II.htm">Regulacje UE</a></li>
+                          <li><a href="/poland/corporate/polish/strefa-klienta.htm">Citi Service</a></li>
+                          <!-- <li class="footerExtraLevel"><span>Wskaźniki referencyjne</span>
+                            <ul>
+                              <li><a href="/wskazniki-referencyjny/">Klient detaliczny</a></li>
+                              <li><a href="/poland/corporate/polish/strefa-klienta.htm">Klient korporacyjny</a></li>
+                            </ul>
+                          </li> -->
+                      </ul>
+                  </div>
+              </li>
+
+              <!--New tab-->
+              <li class="level1 parent">
+                  <span class="category" style="padding-top:0px;">
+                  <svg class="svg-arrow"></svg>
+                  <span role="tab" id="footerAccordionHeader1-e" tabindex="0" aria-expanded="false" aria-controls="footerAccordionPanel1-e" aria-selected="false" data-title="Select to display" class="category-title"></span>
+                      <span class="footer-h"><b>Pomoc</b></span>
+                  </span>
+                  <div class="accordionSubMenu" aria-labelledby="footerAccordionHeader1-e" role="tabpanel" id="footerAccordionPanel1-e" aria-hidden="true">
+                      <ul>
+                          <li><a href="/kontakt/" target="_blank">Kontakt</a></li>
+                          <li><a href="https://www.citibankonline.pl/apps/customerservice/faq/" target="_blank">Pytania i odpowiedzi</a></li>
+                          <li><a href="/poland/homepage/polish/placowki.htm" target="_blank">Placówki</a></li>
+                          <li><a href="https://www.citibankonline.pl/apps/cards/cardblock/" target="_blank" class="lostCard">Zastrzeż kartę</a></li>
+                      </ul>
+                  </div>
+              </li>
+
+              <!--New tab-->
+              <li class="level1 parent">
+                  <span class="category" style="padding-top:0px;">
+                  <svg class="svg-arrow"></svg>
+                  <span role="tab" id="footerAccordionHeader1-f" tabindex="0" aria-expanded="false" aria-controls="footerAccordionPanel1-f" aria-selected="false" data-title="Select to display" class="category-title"></span>
+                      <span class="footer-h"><b>Promocje i oferty</b></span>
+                  </span>
+                  <div class="accordionSubMenu" aria-labelledby="footerAccordionHeader1-f" role="tabpanel" id="footerAccordionPanel1-f" aria-hidden="true">
+                      <ul>
+                        <li><a href="/citispecials/" target="_blank">Citi Specials</a></li>
+                      </ul>
+                  </div>
+              </li>
+          </ul>
+      </div>
+
+      <div class="columns accordionToColumns">
+          <div class="row">
+              <div class="footer-links">
+                  <!--New tab-->
+                  <div class="col-xs-2">
+                      <div class="foot-header">
+                          O banku
+                      </div>
+                      <ul>
+                        <li><a href="/poland/homepage/polish/o-banku.htm" target="_blank">O nas</a></li>
+                        <li><a href="/poland/homepage/polish/relacje-inwestorskie.htm" target="_blank">Relacje inwestorskie</a></li>
+                        <li><a href="/poland/kronenberg/polish/index.htm" target="_blank">Fundacja Kronenberga</a></li>
+                        <li><a href="/poland/kariera/index.htm" target="_blank">Kariera</a></li>
+                      </ul>
+                  </div>
+
+                  <!--New tab-->
+                  <div class="col-xs-2">
+                      <div class="foot-header">
+                          Informacje
+                      </div>
+                      <ul>
+                        <li><a href="/poland/homepage/polish/press1/informacje-prasowe.htm" target="_blank">Biuro prasowe</a></li>
+                        <li><a href="/poland/homepage/polish/aktualnosci.htm" target="_blank">Aktualności</a></li>
+                        <li><a href="/poland/homepage/polish/kursy-walut.htm">Kursy Walut</a></li>
+                        <li><a href="https://magazyn.citibank.pl/" target="_blank">Magazyn</a></li>
+                        <li><a href="/uslugi-online/rodo/">RODO</a></li>
+                      </ul>
+                  </div>
+
+                  <!--New tab-->
+                  <div class="col-xs-2">
+                      <div class="foot-header">
+                          Bankowość Elektroniczna
+                      </div>
+                      <ul>
+                        <li><a href="/uslugi-online/">Bankowość internetowa</a></li>
+                        <li><a href="/uslugi-online/bankowosc-mobilna/" target="_blank">Dostęp mobilny</a></li>
+                        <li><a href="/poland/corporate/polish/bankowosc-elektroniczna.htm" target="_blank">Citi Direct</a></li>
+                        <li><a href="/biuro-maklerskie/" target="_blank">Biuro Maklerskie Citi Handlowy</a></li>
+                        <li><a href="/uslugi-online/dyrektywa-psd2/" target="_blank">Dyrektywa PSD2 i otwarta bankowość</a></li>
+                      </ul>
+                  </div>
+
+                  <!--New tab-->
+                  <div class="col-xs-2">
+                      <div class="foot-header">
+                          Przydatne Informacje
+                      </div>
+                      <ul>
+                        <li><a href="/dokumenty/">Dokumenty</a></li>
+                        <li><a href="/oprocentowanie/">Oprocentowanie</a></li>
+                        <li><a href="/poland/homepage/polish/mifid-II.htm">Regulacje UE</a></li>
+                        <li><a href="/poland/corporate/polish/strefa-klienta.htm">Citi Service</a></li>
+                        <!-- <li class="footerExtraLevel"><span>Wskaźniki referencyjne</span>
+                          <ul>
+                            <li><a href="/wskazniki-referencyjny/">Klient detaliczny</a></li>
+                            <li><a href="/poland/corporate/polish/strefa-klienta.htm">Klient korporacyjny</a></li>
+                          </ul>
+                        </li> -->
+                      </ul>
+                  </div>
+
+                  <!--New tab-->
+                  <div class="col-xs-2">
+                      <div class="foot-header">
+                          Pomoc
+                      </div>
+                      <ul>
+                        <li><a href="/kontakt/" target="_blank">Kontakt</a></li>
+                        <li><a href="https://www.citibankonline.pl/apps/customerservice/faq/" target="_blank">Pytania i odpowiedzi</a></li>
+                        <li><a href="/poland/homepage/polish/placowki.htm" target="_blank">Placówki</a></li>
+                        <li><a href="https://www.citibankonline.pl/apps/cards/cardblock/" target="_blank" class="lostCard">Zastrzeż kartę</a></li>
+                      </ul>
+                  </div>
+
+                  <!--New tab-->
+                  <div class="col-xs-2">
+                      <div class="foot-header">
+                          Promocje i oferty
+                      </div>
+                      <ul>
+                        <li><a href="/citispecials/" target="_blank">Citi Specials</a></li>
+                      </ul>
+                  </div>
+              </div>
+          </div>
+      </div>
+
+<!-- FOOTER BOTTOM LINE -->
+      <div id="subapp-footer-bottom">
+        <div class="row">
+          <nav class="footer-links-bottom">
+            <div class="col-md-10 col-sm-8 col-xs-12">
+              <ul class="foot-list">
+                <li class="foot-copyright">Copyright © 2023 Bank Handlowy w Warszawie S.A.</li>
+                <li><a href="/uslugi-online/zasady-korzystania-z-serwisu/">Zasady korzystania z serwisu</a></li>
+                <li><a href="/uslugi-online/bezpieczenstwo/">Bezpieczeństwo</a></li>
+                <li><a href="/polityka-cookie/">Polityka Cookie</a></li>
+              </ul>
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-12">
+              <span class="foot-other">Kod SWIFT: CITIPLPX</span>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+</div>
+
+
+    </div></div>
+
+        <!-- Scripts -->
+    <link rel="stylesheet" href="/assets/styles/legacy.css" /><!-- LEGACY -->
+    <link rel="stylesheet" href="/assets/styles/rd2022.min.css" />
+
+    <script src="/assets/scripts/vendor/jquery-3.6.0.min.js"></script>
+    <script src="/assets/scripts/cookies.js"></script>
+    <script src="/assets/scripts/legacy.js"></script><!-- LEGACY -->
+    <script src="/assets/scripts/vendor/slick-1.8.1/slick.min.js"></script>
+    <script src="/assets/scripts/vendor/nouislider/nouislider.min.js"></script>
+    <script src="/assets/scripts/vendor/jsrender.min.js"></script>
+    <script src="/assets/scripts/rd2022.js"></script>
+    
+
+    <!--<script src="/scripts/xss.js"></script>
+    <script src="/scripts/xfs.js"></script>-->
+    
+    </body>
+</html>

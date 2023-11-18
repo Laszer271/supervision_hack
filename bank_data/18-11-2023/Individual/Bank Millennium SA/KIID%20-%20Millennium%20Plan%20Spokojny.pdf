@@ -1,0 +1,5577 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+			<!DOCTYPE HTML>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html class="ltr no-js " dir="ltr" lang="pl-PL">
+
+<head>
+    <title>Strona nie została znaleziona - Bank Millennium</title>
+    <link rel="shortcut icon" type="image/x-icon" href="https://www.bankmillennium.pl/o/millennium-theme/images/favicon.ico">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+
+
+
+
+
+
+
+
+
+<meta content="noindex" name="robots" />
+
+
+    <meta content="width=device-width, initial-scale=1, user-scalable=yes" name="viewport"/>
+    <meta name="msapplication-config" content="none"/>
+    <meta name="format-detection" content="telephone=no">
+
+    <meta name="unblu:named-area" content="LwVogG0fROKlWnmr8cP1xQ"/>
+
+
+
+    <script src="/dist/assets/chat-genesys/localization.js" defer></script>
+    <script src="/dist/assets/chat-genesys/configuration.js" defer></script>
+    <script>
+        var genesysChatConfig = {
+            chatPluginsUrl: 'https://widgetgms.bankmillennium.pl/widgets2/plugins/',
+            genesysScriptUrl: 'https://widgetgms.bankmillennium.pl/widgets2/cxbus.min.js',
+            chatSurveyBackendUrl: 'https://gms.bankmillennium.pl/api/Widget/SaveChatResultByInteractionId',
+
+            chatData: 'https://gms.bankmillennium.pl/genesys/2/chat/ntt',
+            cobrowseSrc: 'https://cobrowse.bankmillennium.pl/cobrowse/js/gcb.min.js',
+            cobrowseUrl: 'https://cobrowse.bankmillennium.pl/cobrowse',
+            chatButtonEnabled: false,
+            language: "pl"
+        }
+        genesysChatConfig.chatButtonEnabled = false;
+        genesysChatConfig.genesysChatSound = false;
+    </script>
+    <script src="/dist/assets/chat-genesys/customChatController.js" defer></script>
+    <link rel="preload" href="/dist/assets/chat-genesys/styles.css" as="style">
+    <link id="genesys-widgets-styles-millenium" type="text/css" rel="stylesheet"
+          href="/dist/assets/chat-genesys/styles.css"/>
+
+
+
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            if (window.KoreAiPortal && window.KoreAiPortal.isChatStarted() && typeof window.KoreAiPortal.init === 'function') {
+                window.KoreAiPortal.init('https://bots.bankmillennium.pl', '', '');
+            } else if (window.KoreAiPortal && typeof window.KoreAiPortal.injectScripts === 'function') {
+                window.KoreAiPortal.API_ROOT = 'https://bots.bankmillennium.pl';
+                window.KoreAiPortal.BOT_VERSION = '';
+                window.KoreAiPortal.LIB_VERSION = '';
+                window.KoreAiPortal.injectScripts();
+            }
+        });
+    </script>
+    <!--    -->
+
+
+    <script>
+        var i18langUrl = '/c/portal/update_language' +
+            '?p_l_id=91414&redirect=' + decodeURIComponent(window.location.pathname + window.location.search).replace(/&/g, "%26")
+            + '&languageId=en_US';
+    </script>
+
+    <link rel="preload" href="/dist/font/Roboto/roboto-v18-latin-ext_latin-regular.woff2" as="font" type="font/woff2"
+          crossorigin>
+    <link rel="preload" href="/dist/font/Roboto/roboto-v18-latin-ext_latin-700.woff2" as="font" type="font/woff2"
+          crossorigin>
+    <link rel="preload" href="/dist/font/Roboto/roboto-v18-latin-ext_latin-300.woff2" as="font" type="font/woff2"
+          crossorigin>
+    <link rel="preload" href="/dist/font/Roboto/roboto-v18-latin-ext_latin-900.woff2" as="font" type="font/woff2"
+          crossorigin>
+    <link rel="preload" href="/dist/font/bmp-icons/bmp-icon.ttf?sxlqnb" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/dist/assets/init.min.css?ts=1700309198050t" as="style">
+    <link rel="preload" href="/dist/css/style.min.css?ts=1700309198050" as="style">
+    <link rel="preload" href="/dist/portal-components/assets/style.css?ts=1700309198050" as="style">
+    <link rel="preload" href="/dist/img/loader.gif" as="image">
+
+    <link rel="preload" href="/dist/portal-components/main2.js?ts=1700309198050" as="script">
+    <script src="/dist/portal-components/main2.js?ts=1700309198050"></script>
+    <script src="/dist/reactComponents/indexNoCache.js?ts=1700309198050" defer></script>
+    <script src="/dist/js/index.min.js?ts=1700309198050" defer></script>
+    <script src="/dist/js/allComponents.js?ts=1700309198050" defer></script>
+
+            <script src="https://cs.bankmillennium.pl/portal/cs.js" defer></script>
+
+    <link rel="stylesheet" href="/dist/assets/init.min.css?ts=1700309198050t">
+    <link rel="stylesheet" href="/dist/css/style.min.css?ts=1700309198050">
+    <link rel="stylesheet" href="/dist/portal-components/assets/style.css?ts=1700309198050">
+
+    
+    
+    
+
+
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start':
+            new Date().getTime(), event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', "GTM-NCDQ32");</script>
+    <!-- End Google Tag Manager -->
+
+</head>
+
+<body id="body" class="controls-visible other  yui3-skin-sam guest-site signed-out public-page site">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NCDQ32"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+        <ul class="bmp-skip-links pl-PL">
+            <li><a href="#navi">Przejdź do menu głównego</a></li>
+            <li><a href="/osobiste2/LoginSignIn/new/LanguageID=pl-PL">Przejdź do logowania</a></li>
+            <li><a href="#main-a">Przejdź do treści</a></li>
+            <li><a href="#bmp-footer">Przejdź do nawigacji dolnej</a></li>
+        </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_TOP_PAGE_BROWSER_">
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_TOP_PAGE_BROWSER"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<div class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_TOP_PAGE_BROWSER">
+
+
+    <div class="portlet-content">
+
+            <div class="autofit-float autofit-row portlet-header">
+
+                    <div class="autofit-col autofit-col-end">
+                        <div class="autofit-section">
+                            <div class="visible-interaction">
+
+	
+
+	
+</div>
+                        </div>
+                    </div>
+            </div>
+
+        
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+
+						
+
+						<div class="" data-fragments-editor-item-id="10109-27206326" data-fragments-editor-item-type="fragments-editor-mapped-item" >
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article " data-analytics-asset-id="TOP_PAGE_BROWSER" data-analytics-asset-title="TOP-PAGE-STATMENT-BROWSERS" data-analytics-asset-type="web-content">
+			
+
+			<wc-top-page-statment style="display:none" id="tpsb-gglx_" 
+        data-chrome="64"
+        data-firefox="69"
+        data-opera="51"
+        data-safari-mac="13.4"
+        data-safari-others="13.1"
+        data-edge="79"
+        data-ie="11"
+>
+    <svg class="acc-hide"><style>
+        .ie11.ie11 #tpsb-gglx_, .ieEdgeOld #tpsb-gglx_, 
+            .no-cssgrid #tpsb-gglx_ {display: inherit!important;} 
+        .ieEdgeOld #tpsb-gglx_ .top-page-statment--browser,
+        .ie11.ie11 #tpsb-gglx_ .top-page-statment--browser {display: none!important;}
+        .ie11.ie11 #tpsb-gglx_ .top-page-statment--browser.for-ie11 {display: inherit!important;}
+        .ieEdgeOld #tpsb-gglx_ .top-page-statment--browser.for-ieEdge {display: inherit!important;}
+        
+            #tpsb-gglx_ .top-page-statment.top-page-statment--browser, 
+            #tpsb-gglx_ .top-page-statment.top-page-statment--browser:before {background-color: #f3a611;}
+            #tpsb-gglx_ .top-page-statment.top-page-statment--browser.statment--blak-text .bmp-btn--trans,
+            #tpsb-gglx_ .top-page-statment.top-page-statment--browser.statment--blak-text .bmp-btn--trans strong { color: #000; }
+                #tpsb-gglx_ .top-page-statment.top-page-statment .content .bmp-btn--trans:focus,
+                #tpsb-gglx_ .top-page-statment.top-page-statment .content .bmp-btn--trans:hover{ color: white; }
+                #tpsb-gglx_ .top-page-statment.top-page-statment .content .bmp-btn--trans:focus strong,
+                #tpsb-gglx_ .top-page-statment.top-page-statment .content .bmp-btn--trans:hover strong{ color: white; }
+        #tpsb-gglx_ .top-page-statment.top-page-statment:before { transform: translate(-50%,0); width: 100vw; }
+            #tpsb-gglx_ .for-ie11.top-page-statment.top-page-statment--browser.statment--blak-text .bmp-btn--trans,
+            #tpsb-gglx_ .for-ie11.top-page-statment.top-page-statment--browser.statment--blak-text .bmp-btn--trans strong { color: #000; }
+            #tpsb-gglx_ .for-ie11.top-page-statment.top-page-statment--browser, 
+            #tpsb-gglx_ .for-ie11.top-page-statment.top-page-statment--browser:before {background-color: #f3a611;}
+            #tpsb-gglx_ .for-ie11.top-page-statment.top-page-statment .content .bmp-btn--trans:focus,
+            #tpsb-gglx_ .for-ie11.top-page-statment.top-page-statment .content .bmp-btn--trans:hover{ color: white; }
+            #tpsb-gglx_ .for-ie11.top-page-statment.top-page-statment .content .bmp-btn--trans:focus strong,
+            #tpsb-gglx_ .for-ie11.top-page-statment.top-page-statment .content .bmp-btn--trans:hover strong{ color: white}; }
+            #tpsb-gglx_ .for-ieEdge.top-page-statment.top-page-statment--browser.statment--blak-text .bmp-btn--trans,
+            #tpsb-gglx_ .for-ieEdge.top-page-statment.top-page-statment--browser.statment--blak-text .bmp-btn--trans strong { color: #000; }
+            #tpsb-gglx_ .for-ieEdge.top-page-statment.top-page-statment--browser, 
+            #tpsb-gglx_ .for-ieEdge.top-page-statment.top-page-statment--browser:before {background-color: #f3a611;}
+            #tpsb-gglx_ .for-ieEdge.top-page-statment.top-page-statment .content .bmp-btn--trans:focus,
+            #tpsb-gglx_ .for-ieEdge.top-page-statment.top-page-statment .content .bmp-btn--trans:hover{ color: black; }
+            #tpsb-gglx_ .for-ieEdge.top-page-statment.top-page-statment .content .bmp-btn--trans:focus strong,
+            #tpsb-gglx_ .for-ieEdge.top-page-statment.top-page-statment .content .bmp-btn--trans:hover strong{ color: black; }
+    </style><script>
+        var d = document.getElementsByTagName('html')[0], caOnline = document.querySelector('currentaccountapp') !== null, ieOld = /MSIE (\d+\.\d+);/.test(navigator.userAgent), trident = !!navigator.userAgent.match(/Trident/), rv = navigator.userAgent.indexOf('rv:11.0');
+        var iev = 0;
+        if (ieOld && (iev = Number(ieOld)), navigator.appVersion.indexOf('MSIE 10') !== -1 && (iev = 10), trident && rv !== -1 && (iev = 11), iev) { d.className = d.className + ' ie ie' + iev;
+        } else {
+            var isIeEdgeCh = navigator.userAgent.indexOf('Edg') !== -1, isIeEdge = navigator.userAgent.indexOf('Edge') !== -1;
+            if (isIeEdgeCh) {d.className += ' ie ieEdge'; } else if (isIeEdge) { d.className += ' ie ieEdgeOld'; }
+        } 
+        if ( window.location.pathname.indexOf('przekierowanie') > -1 || window.location.pathname.indexOf('redirection') > -1 ) { 
+        if ( iev === 11 || iev === 10 || isIeEdge ) { window.setTimeout(function(){window.location.replace("https://www.microsoft.com/en-gb/windows/microsoft-edge")}, 10000);} }</script></svg>
+    <div id="old-browser" class="top-page-statment top-page-statment--browser wrapper statment--blak-text">
+        <input type="checkbox" id="top-page-browser" style="position: absolute;left: -999.9rem;" />
+        <label class="top" for="top-page-browser">
+            <i class="icon--f-alert-urgent-icon statment__icon" aria-hidden="true"></i>
+            <span>Zaktualizuj swoją przeglądarkę</span>
+            <i class="icon--f-arrow" aria-hidden="true"><span class="bmp-hide acc-hide">open</span></i>
+        </label>
+        <div class="content">
+            <p>Od 25.08 nie będzie możliwe logowanie do Millenetu z wersji przeglądarki, z której teraz korzystasz. Zaktualizuj przeglądarkę na swoim urządzeniu i korzystaj z bankowości internetowej wygodnie i bezpiecznie.</p>
+                <a href="https://www.bankmillennium.pl/przekierowanie" class="bmp-btn bmp-btn--trans"  target="_blank"><i class="icon--f-arrow" aria-hidden="true"></i>
+                
+                <strong>Zaktualizuj przeglądarkę</strong></a>
+        </div>
+    </div>
+    <!-- for ie 11 -->
+    <div id="old-ie" class="top-page-statment top-page-statment--browser for-ie11 wrapper statment--blak-text">
+        <input type="checkbox" id="top-page-browser-ie" style="position: absolute;left: -999.9rem;" />
+        <label class="top" for="top-page-browser-ie">
+            <i class="icon--f-alert-urgent-icon statment__icon" aria-hidden="true"></i>
+            <span>Zmień przeglądarkę internetową</span>
+            <i class="icon--f-arrow" aria-hidden="true"><span class="bmp-hide acc-hide">open</span></i>
+        </label>
+        <div class="content">
+            <p>Od 15 maja 2021 r. bankowość internetowa Millenet nie będzie dostępna w tej przeglądarce internetowej, a na stronie internetowej niektóre elementy mogą wyświetlać się nieprawidłowo. Już teraz zainstaluj inną przeglądarkę i korzystaj z Millenetu oraz strony bezpiecznie i wygodnie.
+
+Potrzebujesz pomocy?</p>
+                    <a href="/internet-explorer" class="bmp-btn bmp-btn--trans"  target="_blank"><i class="icon--f-arrow" aria-hidden="true"></i>
+                <strong>Dowiedz się więcej</strong></a>
+        </div>
+    </div>
+    <!-- for ie egde legacy -->
+    <div id="old-edge" class="top-page-statment top-page-statment--browser for-ieEdge wrapper statment--blak-text">
+        <input type="checkbox" id="top-page-browser-ieEdge" style="position: absolute;left: -999.9rem;" />
+        <label class="top" for="top-page-browser-ieEdge">
+            <i class="icon--f-alert-urgent-icon statment__icon" aria-hidden="true"></i>
+            <span>Zaktualizuj lub zmień przeglądarkę internetową</span>
+            <i class="icon--f-arrow" aria-hidden="true"><span class="bmp-hide acc-hide">open</span></i>
+        </label>
+        <div class="content">
+            <p>Od 15 maja 2021 r. bankowość internetowa Millenet nie będzie dostępna w tej wersji przeglądarki internetowej, a na stronie internetowej niektóre elementy mogą wyświetlać się nieprawidłowo. Już teraz zaktualizuj przeglądarkę lub zmień.
+
+
+Potrzebujesz pomocy?</p>
+                    <a href="/internet-explorer" class="bmp-btn bmp-btn--trans"  target="_blank"><i class="icon--f-arrow" aria-hidden="true"></i>
+                <strong>Dowiedz się więcej</strong></a>
+        </div>
+    </div>
+</wc-top-page-statment>
+
+			
+		</div>
+
+		
+
+	
+
+
+
+						</div>
+					
+				
+			
+		
+	
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+    </div>
+</div>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_COOKIE_INFO_">
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_COOKIE_INFO"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<div class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_COOKIE_INFO">
+
+
+    <div class="portlet-content">
+
+            <div class="autofit-float autofit-row portlet-header">
+
+                    <div class="autofit-col autofit-col-end">
+                        <div class="autofit-section">
+                            <div class="visible-interaction">
+
+	
+
+	
+</div>
+                        </div>
+                    </div>
+            </div>
+
+        
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+
+						
+
+						<div class="" data-fragments-editor-item-id="10109-26593799" data-fragments-editor-item-type="fragments-editor-mapped-item" >
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article " data-analytics-asset-id="COOKIE_INFO" data-analytics-asset-title="COOKIE_INFO" data-analytics-asset-type="web-content">
+			
+
+			
+<wc-cookies-marketing name='cookie-info' value='true' type='info' data-url='https://portal.api.bankmillennium.pl/bm/app/portal/api/public/cookies/consent/save'>
+  <div class="cookie-m-content" style="display:none;">
+    <div id="cookie-m-image-header" class="cookie-m-header">
+      <img src="/dist/img/cookie/portal-cookies-icon.png" class="cookie-m-image" alt="wiadomość cookie"/>
+      <div class="cookie-m-header-title">
+           <div id="header-info" class="cookie-m-title">
+            <p class="font-strong">Bank Millennium S.A. używa plików cookie (tzw. ciasteczek), aby ułatwić Ci korzystanie z naszych stron i pokazywać dopasowane treści, w tym promocje i inne personalizowane oferty.</p> <p>Pliki cookie pomagają nam zrozumieć, w jaki sposób korzystasz ze strony i jak możemy ją ulepszyć.</p>
+            </div>
+            <div id="header-end" class="cookie-m-title">
+              <p>Nie będziemy pokazywać Ci personalizowanych ofert marketingowych i handlowych.</p>
+            </div>
+      </div>
+    </div>
+    <div id="cookie-m-info" class="cookie-m-body">
+        <div><p>Klikając przycisk Akceptuję, zgadzasz się na zapisywanie plików cookie, które umożliwią nam wyświetlanie Ci dopasowanych informacji marketingowych na tym urządzeniu. Jeśli chcesz zdefiniować własne ustawienia plików cookie oraz sprawdzić pełną treść zgody, kliknij przycisk Ustawienia.</p>
+
+<p>Szczegółowe informacje o rodzajach, działaniu, łączeniu z innymi danymi, zmianie ustawień lub usuwaniu plików cookie znajdziesz na stronie <a href="/polityka-plikow-cookie">Polityka plików cookie</a>.</p></div>
+    </div>
+    <div id="cookie-m-settings" class="cookie-m-body">
+        <div><p><i>Zgadzam się, aby Bank Millennium S.A. (Bank) korzystał z marketingowych plików cookie zapisywanych na tym urządzeniu podczas korzystania przeze mnie z serwisów Banku Millennium. Chcę, żeby Bank przekazywał mi dopasowane informacje marketingowe, a także pokazywał mi personalizowane produkty i usługi. Dodatkowo Bank może połączyć zebrane w ten sposób dane z innymi moimi danymi posiadanymi przez Bank zgodnie z informacjami na stronie <a href="/ochrona-danych">Ochrona danych i polityka prywatności</a></i>.</p>
+
+<p>Wyrażoną zgodę możesz w każdej chwili wycofać przez usunięcie plików cookie z urządzenia lub za pomocą przycisku odwołującego zgodę, zgodnie z informacjami zawartymi na stronie <a href="/polityka-plikow-cookie">Polityka plików cookie</a>.</p></div>
+    </div>
+    <div id="cookie-m-end" class="cookie-m-body">
+      <div><p>Jeśli chcesz zaakceptować marketingowe pliki cookie i otrzymywać dopasowane informacje handlowe, <a href="/polityka-plikow-cookie">kliknij tutaj</a>.</p></div>
+    </div>
+    <span id="cookie-m-button-allow">
+        Akceptuję 
+    </span>
+    <span id="cookie-m-button-allow-span">
+         Akceptuję
+    </span>
+    <span id="cookie-m-button-disallow">
+        Nie akceptuję 
+    </span>
+    <span id="cookie-m-button-disallow-span">
+         Nie akceptuję
+    </span>
+    <span id="cookie-m-button-settings">
+        Ustawienia 
+    </span>
+    <span id="cookie-m-button-settings-span">
+         Ustawienia
+    </span>
+    <span id="cookie-m-button-back">
+        Powrót 
+    </span>
+    <span id="cookie-m-button-back-span">
+         powrót
+    </span>
+
+        <span class="cookie-m-dont-lock-screen">/ochrona-danych</span>
+
+        <span class="cookie-m-dont-lock-screen">/osobiste2/Retail/Login/MulticodeRequest</span>
+
+  </div>
+</wc-cookies-marketing>
+
+<script>
+    const onPageLoad = () => {
+        const cookieWrapper = document.querySelector("#wc-cookies-m-wrapper");
+        !!cookieWrapper && !!window.ClickStreamAdapter && window.ClickStreamAdapter.sendObjectView({ id: 'CookieCloud' });
+    };
+
+    if (document.readyState === 'complete') {
+        onPageLoad();
+    } else {
+        window.addEventListener('load', onPageLoad);
+    }
+</script>
+
+			
+		</div>
+
+		
+
+	
+
+
+
+						</div>
+					
+				
+			
+		
+	
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+    </div>
+</div>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="bm" class="bm bm-container">
+    <div class="l-full">
+<header>
+    <sc-header>
+        <div class="business-line">
+            <nav class='wrapper' aria-label="primary">
+                <ul class='header__business-line'>
+                          
+                        <li class="active"><a href="https://www.bankmillennium.pl/klienci-indywidualni">Klienci Indywidualni</a></li>
+                        
+                        <li class=""><a href="https://www.bankmillennium.pl/prestige">Prestige</a></li>
+                        
+                        <li class=""><a href="https://www.bankmillennium.pl/bankowosc-prywatna">Bankowość Prywatna</a></li>
+                        
+                        <li class=""><a href="https://www.bankmillennium.pl/biznes">Firmy</a></li>
+                        
+                        <li class=""><a href="https://www.bankmillennium.pl/przedsiebiorstwa">Przedsiębiorstwa</a></li>
+                </ul>
+                <ul class="only-mobile-logo">
+                    <li>
+                        <a class="logo-mobile" href="/" tabindex="0"><span class="acc-hide">Bank Millennium home
+                            page</span></a>
+                    </li>
+                </ul>
+
+                <ul class="header__business-line--right">
+                    <li class="business-line__search" aria-expanded="false">
+                        <a href="search.url" class="search__trigger clear-button">
+                            <i class="icon--f-search" aria-hidden="true"></i>
+                            <span class="acc-hide">Szukaj</span>
+                        </a>
+                    </li>
+                    <li class="business-line__size">
+                        <a href="#A-minus" class="size-smaller">
+                            <span aria-hidden="true">A</span>
+                            <span class="acc-hide">font.smaller</span>
+                        </a>
+                        <a href="#A-plus" class="size-bigger">
+                            <span aria-hidden="true">A</span>
+                            <span class="acc-hide">font.bigger</span>
+                        </a>
+                    </li>
+                    <li class="business-line__lang">
+                        <a href="#en" class='business-line__lang--english'>
+                            <span lang="en" class="acc-hide">English</span>
+                        </a>
+                        <a href="#pl" class='business-line__lang--polish'>
+                            <span lang="pl" class="acc-hide">Polski</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            <script src="/dist/assets/scHeader/business-line-actions.js?ts=20231118201206"></script>
+        </div>
+
+        <div class="logo-and-buttons wrapper" id="navi">
+            <a class="header__logo" href="/"><span class="acc-hide">millennium bank</span></a>
+            <div class="buttons-group">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_SC_HEADER_BUTTONS_">
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_SC_HEADER_BUTTONS"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<div class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_SC_HEADER_BUTTONS">
+
+
+    <div class="portlet-content">
+
+            <div class="autofit-float autofit-row portlet-header">
+
+                    <div class="autofit-col autofit-col-end">
+                        <div class="autofit-section">
+                            <div class="visible-interaction">
+
+	
+
+	
+</div>
+                        </div>
+                    </div>
+            </div>
+
+        
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+
+						
+
+						<div class="" data-fragments-editor-item-id="10109-28770131" data-fragments-editor-item-type="fragments-editor-mapped-item" >
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article " data-analytics-asset-id="SC_HEADER_BUTTONS" data-analytics-asset-title="SC_HEADER_BUTTONS" data-analytics-asset-type="web-content">
+			
+
+			
+<form action="/wyniki-wyszukiwania" class="header__search">
+    <label class="icon--f-search"><input type="text" name="q" id="search" placeholder="Wpisz, czego szukasz"></label>
+</form>
+<!--  -->
+        <a href="?modal=bp"  
+             data-links-modal='eyJhbGciOiJIUzI1NiJ9.eyJzY29wZSI6IjI3MTM4MTgzIiwiY2ZnIjoiIn0.EPHoZe9xJTbVf_BpP-GQBdr6ttuc8bSSSMVYb5apx_I' 
+            class="bmp-btn bmp-btn--white">
+            
+            <span>Pożycz gotówkę</span>
+            
+        </a>
+        <a href="/wniosek-o-konto-osobiste?btn_ca=01&nr=btn_ca_01&portalId=713"  
+            class="bmp-btn bmp-btn--white">
+            
+            <span>ZAŁÓŻ KONTO</span>
+            
+        </a>
+<!-- buttons -->
+    <a href="/wniosek-o-konto-osobiste?btn_ca=26&nr=btn_ca_26&portalId=713"  
+        class="bmp-btn bmp-btn mobile-only acc-hide">
+        
+        <span>ZAŁÓŻ KONTO</span>
+        
+    </a>
+<a href="#!login" class="bmp-btn bmp-btn--blue 
+    modal-trigger acc-hide" rel="noindex"><span><i class="icon--f-lock"></i> Logowanie</span></a>
+
+			
+		</div>
+
+		
+
+	
+
+
+
+						</div>
+					
+				
+			
+		
+	
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+    </div>
+</div>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+            </div>
+                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_LOGIN_MODAL_">
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_LOGIN_MODAL"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<div class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_LOGIN_MODAL">
+
+
+    <div class="portlet-content">
+
+            <div class="autofit-float autofit-row portlet-header">
+
+                    <div class="autofit-col autofit-col-end">
+                        <div class="autofit-section">
+                            <div class="visible-interaction">
+
+	
+
+	
+</div>
+                        </div>
+                    </div>
+            </div>
+
+        
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+
+						
+
+						<div class="" data-fragments-editor-item-id="10109-28769832" data-fragments-editor-item-type="fragments-editor-mapped-item" >
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article " data-analytics-asset-id="LOGIN_MODAL" data-analytics-asset-title="LOGIN_MODAL" data-analytics-asset-type="web-content">
+			
+
+			<wc-header-modal class='header__modal' 
+    data-url="//portal.api.bankmillennium.pl/bm/app/portal/api/public/login/getClientType" 
+    data-token="eyJhbGciOiJIUzI1NiJ9.eyJzY29wZSI6ImxvZ2luIiwiY2ZnIjoiIn0.fkZOX8ZRW7dMkzXnixfdHZV9TQICniZ9qpNlxusSi-A" 
+    data-portal-api="true" 
+    role="dialog" aria-describedby="dialog-msg" aria-labelledby="dialog-title" aria-expanded="false">
+    <div class="login__content_mask"></div>
+    <div class="login__content extraHeight" id="dialog-msg"><a href="#close" class="icon--f-close"><span class="acc-hide">zamknij okno</span></a>
+        <p class="title" id="dialog-title">Logowanie do Millenetu</p>
+        <form>
+            <label for="mc">MilleKod:</label>
+            <wc-tooltip data-event="click" class="login__tooltip" data-title="MilleKod To Twój 8-cyfrowy identyfikator (znajdziesz go w umowie)." data-content="<p>Wpisz swój MilleKod lub własną nazwę dla MilleKodu (alias). Własną nazwę MilleKodu możesz zdefiniować po zalogowaniu do Millenetu w zakładce <b>Ustawienia ogólne>Limity i zabezpieczenia>Zmień nazwę dla MilleKodu</b>. Własna nazwa MilleKodu może być używana zamiennie z 8-cyfrowym MilleKodem.</p>" data-id="tooltip_dvoveljk" isopen="true"><a href="#" class="tooltip-trigger clear-button" aria-expanded="true" aria-describedby="tooltip_dvoveljk">
+                    <i class="icon--f-alert-info-icon" aria-hidden="true"></i>
+                </a><div id="tooltip_dvoveljk" class="acc-hide">MilleKod To Twój 8-cyfrowy identyfikator (znajdziesz go w umowie). - <p>Wpisz swój MilleKod lub własną nazwę dla MilleKodu (alias). Własną nazwę MilleKodu możesz zdefiniować po zalogowaniu do Millenetu w zakładce <b>Ustawienia ogólne>Limity i zabezpieczenia>Zmień nazwę dla MilleKodu</b>. Własna nazwa MilleKodu może być używana zamiennie z 8-cyfrowym MilleKodem.</p></div></wc-tooltip>
+            <a href="//www.bankmillennium.pl/osobiste2/Retail/Login/params/MKRetrieval" class="forgotten-millekod">Nie pamiętam MilleKodu</a>
+            <div>
+                <input type="text" name="millecode" id="mc" value="" maxlength="16" class="millecode" autocomplete="off" />
+                <button type="button" class="bmp-btn">Dalej</button>
+            </div>
+            <p class="millecode_error"></p>
+        </form>
+        <form class="redirect" action="/osobiste2/LoginSignIn/new/LanguageID=pl-PL" method="get" style="display:none;">
+            <input type="hidden" name="millekod" class="millekod" value="">
+            <input type="hidden" name="defaultClientType" value="RETAIL">
+            <input type="hidden" name="language" value="pl_PL">
+        </form>
+
+            <ul class="news"><li>
+                <p class="top"><i class="icon--f-news" aria-hidden="true"></i><span>Finanse 360°</span></p>
+                <p>Sprawdź saldo i zlecaj przelewy z kont w innych bankach wygodnie przez Millenet
+                    <a href="https://www.bankmillennium.pl/bankowosc-elektroniczna/przelewy-z-innych-bankow" target="_blank">
+                        <span class="acc-hide">template.externalLink.desc</span>Więcej
+                        <span class="acc-hide">Finanse 360°</span>
+                    </a>
+                </p>
+            </li>
+            <li class="sep"></li>
+            <li>
+                <p class="top"><i class="icon--f-news" aria-hidden="true"></i><span>Fałszywi konsultanci</span></p>
+                <p>Oszuści podszywają się pod pracowników Banku - nie pobieraj nieznanych aplikacji i nie udostępniaj poufnych danych
+                    <a href="/bankowosc-elektroniczna/bezpieczenstwo" target="_blank">
+                        <span class="acc-hide">template.externalLink.desc</span>Więcej
+                        <span class="acc-hide">Fałszywi konsultanci</span>
+                    </a>
+                </p>
+            </li>
+        </ul>
+    </div>
+</wc-header-modal>
+
+			
+		</div>
+
+		
+
+	
+
+
+
+						</div>
+					
+				
+			
+		
+	
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+    </div>
+</div>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+ 
+        </div>
+        <hr class="header-separator"/>
+    </sc-header>
+</header>
+<div class="main_manu">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_MAIN_MENU_">
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_MAIN_MENU"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<div class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_MAIN_MENU">
+
+
+    <div class="portlet-content">
+
+            <div class="autofit-float autofit-row portlet-header">
+
+                    <div class="autofit-col autofit-col-end">
+                        <div class="autofit-section">
+                            <div class="visible-interaction">
+
+	
+
+	
+</div>
+                        </div>
+                    </div>
+            </div>
+
+        
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+
+						
+
+						<div class="" data-fragments-editor-item-id="10109-28760584" data-fragments-editor-item-type="fragments-editor-mapped-item" >
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article " data-analytics-asset-id="MAIN_MENU" data-analytics-asset-title="MAIN_MENU" data-analytics-asset-type="web-content">
+			
+
+			<div class="navbar__con  wrapper"><nav class="navbar navbar--secondary" aria-label="secondary">
+<ul role="menubar">
+    <li role="presentation"><a href="/klienci-indywidualni/konta-osobiste"  class="bmp-link"><span role="heading" aria-level="2">Konta</span>
+        <span class="acc-hide"></span>
+    </a></li>
+
+    <li role="presentation"><a href="/klienci-indywidualni/karty-platnicze"  class="bmp-link"><span role="heading" aria-level="2">Karty</span>
+        <span class="acc-hide"></span>
+    </a></li>
+
+    <li role="presentation"><a href="/klienci-indywidualni/pozyczki"  class="bmp-link"><span role="heading" aria-level="2">Kredyty</span>
+        <span class="acc-hide"></span>
+    </a></li>
+
+    <li role="presentation"><a href="/klienci-indywidualni/oszczednosci-i-inwestycje#produkty-oszczednosciowe"  class="bmp-link"><span role="heading" aria-level="2">Oszczędności</span>
+        <span class="acc-hide"></span>
+    </a></li>
+
+    <li role="presentation"><a href="/klienci-indywidualni/oszczednosci-i-inwestycje#produkty-strukturyzowane-i-laczone"  class="bmp-link"><span role="heading" aria-level="2">Inwestycje</span>
+        <span class="acc-hide"></span>
+    </a></li>
+
+    <li role="presentation"><a href="/klienci-indywidualni/ubezpieczenia"  class="bmp-link"><span role="heading" aria-level="2">Ubezpieczenia</span>
+        <span class="acc-hide"></span>
+    </a></li>
+
+    <li role="presentation"><a href="/bankowosc-elektroniczna"  class="bmp-link"><span role="heading" aria-level="2">Bankowość elektroniczna</span>
+        <span class="acc-hide"></span>
+    </a></li>
+
+    <li role="presentation"><a href="/pierwszykrokonline"  class="bmp-link"><span role="heading" aria-level="2">Wsparcie</span>
+        <span class="acc-hide"></span>
+    </a></li>
+
+    <li role="presentation"><a href="/klienci-indywidualni/kontakt"  class="bmp-link"><span role="heading" aria-level="2">Kontakt</span>
+        <span class="acc-hide"></span>
+    </a></li>
+</ul></nav></div>
+<hr class="header-separator for-old-theme-only" />
+
+			
+		</div>
+
+		
+
+	
+
+
+
+						</div>
+					
+				
+			
+		
+	
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+    </div>
+</div>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+</div>
+
+        <div id="main-a" class="o-skiplink-anchor"></div>
+        <div id="main" class="l-full-row main" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<style type="text/css">
+			.master-layout-fragment .portlet-header {
+				display: none;
+			}
+		</style>
+
+		
+
+		<div class="millennium layout-custom" id="main-content" role="main">
+    <div class="portlet-layout layout-row">
+        <div class="layout-wrapper">
+            <div class="portlet-column portlet-column-only" id="column-1"><div class="portlet-dropzone portlet-column-content portlet-column-content-only" id="layout-column_column-1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_vKGeFzZO8zaW_">
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_vKGeFzZO8zaW"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<div class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_vKGeFzZO8zaW">
+
+
+    <div class="portlet-content">
+
+            <div class="autofit-float autofit-row portlet-header">
+
+                    <div class="autofit-col autofit-col-end">
+                        <div class="autofit-section">
+                            <div class="visible-interaction">
+
+	
+
+	
+</div>
+                        </div>
+                    </div>
+            </div>
+
+        
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+
+						
+
+						<div class="" data-fragments-editor-item-id="10109-27117170" data-fragments-editor-item-type="fragments-editor-mapped-item" >
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article " data-analytics-asset-id="27117168" data-analytics-asset-title="Strona 404" data-analytics-asset-type="web-content">
+			
+
+			<style>
+    @media (min-width: 980px){
+        .page-404 .row-md-flex { display: flex; align-items: center; justify-content: center; max-width: 32rem; margin: 3rem auto 0; }
+        .page-404 .row-md-flex > .bmp-link { margin-right: 3rem }
+    }
+    @media (max-width: 980px){
+        .page-404 .row-md-flex { margin: 2rem auto 0; }
+        .page-404 .row-md-flex > .bmp-link { margin: 0 2rem 2rem }
+    }
+</style>
+<section class="wrapper page-404">
+    <div class="row">
+        <div class="col-xs-12 text-center">
+            <picture>
+                 <source srcset="/documents/10184/27117064/img_hd.png/06115cce-b079-429f-b670-78050d5b4e1f?t=1549290912483" media="(min-width: 1580px)" /> 
+                 <source srcset="/documents/10184/27117064/img_d.png/35844e97-4a52-4535-a7f3-32b6cab126af?t=1549290911460" media="(min-width: 1200px)" /> 
+                 <source srcset="/documents/10184/27117064/img_t.png/33e76d1f-137b-4a93-a54d-7b6fd6e91dec?t=1549290913693" media="(min-width: 980px)" /> 
+                <img src="/documents/10184/27117064/img_m.png/a32bf0e3-b16f-4237-9e67-b71bf5eae713?t=1549290912900" srcset="/documents/10184/27117064/img_m.png/a32bf0e3-b16f-4237-9e67-b71bf5eae713?t=1549290912900" alt="Strona 404" />
+            </picture>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12 text-center">
+             <br /> <h2> <strong>Coś poszło nie tak…</strong> </h2> 
+             <br /> <p class="bmp-p--big"> Podana strona nie istnieje bądź wystąpił<br />nieoczekiwany błąd. </p> 
+            <div class="row-md-flex text-center">
+
+            <a href="#return" onclick="window.history.go(-1); return false;" class="bmp-link">powrót</a>
+
+                <a href="/?404" class="bmp-btn">
+                    
+                    STRONA GŁÓWNA
+                    </a>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+			
+		</div>
+
+		
+
+	
+
+
+
+						</div>
+					
+				
+			
+		
+	
+
+
+
+
+	
+
+	
+		<div class="asset-links content-metadata-asset-addon-entries mb-4">
+			
+
+
+
+
+
+
+
+
+
+<div class="content-metadata-asset-addon-entry content-metadata-asset-addon-entry-links">
+	
+</div>
+		</div>
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+    </div>
+</div>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+</div></div>
+        </div>
+    </div>
+</div>
+
+	
+
+
+<form action="#" aria-hidden="true" class="hide" id="hrefFm" method="post" name="hrefFm"><span></span><button hidden type="submit">Ukryty</button></form>
+
+	
+        </div>
+
+
+<footer class="sc-footer wrapper chat-button-dock f-buttons">
+    <a id="bmp-footer" tabindex="-1" class="o-skiplink-anchor"></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_SC_FOOTER_TOP_">
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_SC_FOOTER_TOP"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<div class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_SC_FOOTER_TOP">
+
+
+    <div class="portlet-content">
+
+            <div class="autofit-float autofit-row portlet-header">
+
+                    <div class="autofit-col autofit-col-end">
+                        <div class="autofit-section">
+                            <div class="visible-interaction">
+
+	
+
+	
+</div>
+                        </div>
+                    </div>
+            </div>
+
+        
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+
+						
+
+						<div class="" data-fragments-editor-item-id="10109-26789697" data-fragments-editor-item-type="fragments-editor-mapped-item" >
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article " data-analytics-asset-id="SC_FOOTER_TOP" data-analytics-asset-title="SC_FOOTER_TOP" data-analytics-asset-type="web-content">
+			
+
+			<h2 class="acc-hide">Nawigacja dolna</h2>
+
+
+<div class="footer__top row">
+	<h3 class="acc-hide">Zadzwoń do nas</h3>
+	<ul class="col-md-3 col-lg-4 footer__top--tel">
+		<li><a href="tel:801331331" aria-label="Numer telefonu 801 331 331" class="phone
+		phone--lifted">801 331 331</a></li>
+		<li><a href="tel:+48225984040" 
+			aria-label="Numer telefonu (+48) 22 598 40 40" class="phone phone--line">(+48) 22 598 40 40</a></li>
+		<li><a class="icon-links__top--mobile" href="#bm" data-smooth-scroll>
+			<i class="icon icon--i-toTop-footer"></i>
+			<span>Do góry</span>
+		</a></li>
+	</ul>
+	<ul class="col-md-9 col-lg-8 footer__top--links">
+		<li><a class="icon-links__oib" href="/o-banku/oddzialy-i-bankomaty" target="_blank">
+			<i class="icon icon--i-marker-footer"></i>
+			<span class="acc-hide">template.externalLink.desc</span>
+			<span>Znajdź placówkę lub bankomat</span>
+		</a></li>
+		<li><a class="icon-links__ndn" href="/o-banku/kontakt/formularz-kontaktu" target="_blank">
+			<i class="icon icon--i-mail-footer"></i>
+			<span class="acc-hide">template.externalLink.desc</span>
+			<span>Napisz do nas</span>
+		</a></li>
+			<li><a class="icon-links__on" href="https://twoja-opinia.bankmillennium.pl/mrIWeb/mrIWeb.dll?I.Project=OCEN_NAS" target="_blank">
+				<i class="icon icon--i-star-footer"></i>
+				<span class="acc-hide">template.externalLink.desc</span>
+				<span>Oceń nas</span>
+			</a></li>
+		<li><a class="icon-links__top" href="#bm" data-smooth-scroll>
+			<i class="icon icon--i-toTop-footer"></i>
+			<span>Do góry</span>
+		</a></li>
+	</ul>
+</div>
+
+			
+		</div>
+
+		
+
+	
+
+
+
+						</div>
+					
+				
+			
+		
+	
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+    </div>
+</div>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+        <div class="footer__middle row">
+            <div class="col-xs-12 col-md-4 col-lg-3">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_SC_FOOTER_MIDDLE_COL1_">
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_SC_FOOTER_MIDDLE_COL1"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<div class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_SC_FOOTER_MIDDLE_COL1">
+
+
+    <div class="portlet-content">
+
+            <div class="autofit-float autofit-row portlet-header">
+
+                    <div class="autofit-col autofit-col-end">
+                        <div class="autofit-section">
+                            <div class="visible-interaction">
+
+	
+
+	
+</div>
+                        </div>
+                    </div>
+            </div>
+
+        
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+
+						
+
+						<div class="" data-fragments-editor-item-id="10109-26789656" data-fragments-editor-item-type="fragments-editor-mapped-item" >
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article " data-analytics-asset-id="SC_FOOTER_MIDDLE_COL1" data-analytics-asset-title="SC_FOOTER_MIDDLE_COL1" data-analytics-asset-type="web-content">
+			
+
+			<div class="column__collapse first">
+    <strong class="middle__title">
+        <span class="middle__title__h3" role="heading" aria-level="3">Złóż wniosek przez internet</span>
+    </strong>
+    <ul class="collapse__list">
+	    <li><a href="/wniosek-o-konto-osobiste?ca_btn=14&nr=btn_ca_14&portalId=713"   rel="nofollow"
+             target="_blank"
+        >
+			<span class="acc-hide">template.externalLink.desc</span>
+	        
+			<span>Konto</span>
+	    </a></li>
+    
+	    <li><a href="?modal"   rel="nofollow"
+            
+                data-links-modal="eyJhbGciOiJIUzI1NiJ9.eyJzY29wZSI6IjI3MTM4MTgzIiwiY2ZnIjoiIn0.EPHoZe9xJTbVf_BpP-GQBdr6ttuc8bSSSMVYb5apx_I"
+        >
+			
+	        
+			<span>Pożyczka gotówkowa</span>
+	    </a></li>
+    
+	    <li><a href="/klienci-indywidualni/kontakt-z-doradca/karty-kredytowe"   rel="nofollow"
+            
+        >
+			
+	        
+			<span>Karta kredytowa</span>
+	    </a></li>
+    </ul></div>
+<div class="column__collapse ">
+    <strong class="middle__title">
+        <span class="middle__title__h3" role="heading" aria-level="3">Skontaktuj się ze Specjalistą</span>
+    </strong>
+    <ul class="collapse__list">
+	    <li><a href="/klienci-indywidualni/kontakt-z-doradca/pozyczka-gotowkowa"   rel="nofollow"
+            
+        >
+			
+	        
+			<span>Pożyczka Gotówkowa</span>
+	    </a></li>
+    
+	    <li><a href="/klienci-indywidualni/kontakt-z-doradca/kredyt-hipoteczny"   rel="nofollow"
+            
+        >
+			
+	        
+			<span>Kredyt hipoteczny</span>
+	    </a></li>
+    
+	    <li><a href="/klienci-indywidualni/kontakt-z-doradca/karty-kredytowe"   rel="nofollow"
+            
+        >
+			
+	        
+			<span>Karta kredytowa</span>
+	    </a></li>
+    </ul></div>
+
+
+			
+		</div>
+
+		
+
+	
+
+
+
+						</div>
+					
+				
+			
+		
+	
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+    </div>
+</div>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+            </div>
+            <div class="col-xs-12 col-md-4 col-lg-3">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_SC_FOOTER_MIDDLE_COL2_">
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_SC_FOOTER_MIDDLE_COL2"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<div class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_SC_FOOTER_MIDDLE_COL2">
+
+
+    <div class="portlet-content">
+
+            <div class="autofit-float autofit-row portlet-header">
+
+                    <div class="autofit-col autofit-col-end">
+                        <div class="autofit-section">
+                            <div class="visible-interaction">
+
+	
+
+	
+</div>
+                        </div>
+                    </div>
+            </div>
+
+        
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+
+						
+
+						<div class="" data-fragments-editor-item-id="10109-26789667" data-fragments-editor-item-type="fragments-editor-mapped-item" >
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article " data-analytics-asset-id="SC_FOOTER_MIDDLE_COL2" data-analytics-asset-title="SC_FOOTER_MIDDLE_COL2" data-analytics-asset-type="web-content">
+			
+
+			
+<div class="column__collapse">
+    <strong class="middle__title">
+        <span class="middle__title__h3" role="heading" aria-level="3">O banku</span>
+    </strong>
+    <ul class="collapse__list">
+	    <li><a href="/o-banku/kim-jestesmy"  
+            
+            
+        >
+			
+	        
+			<span>Kim jesteśmy</span>
+	    </a></li>
+    
+	    <li><a href="/o-banku/kariera"  
+            
+            
+        >
+			
+	        
+			<span>Kariera</span>
+	    </a></li>
+    
+	    <li><a href="/o-banku/wladze-banku-i-lad-korporacyjny"  
+            
+            
+        >
+			
+	        
+			<span>Władze Banku i ład korporacyjny</span>
+	    </a></li>
+    
+	    <li><a href="/o-banku/centrum-prasowe"  
+            
+            
+        >
+			
+	        
+			<span>Centrum prasowe</span>
+	    </a></li>
+    
+	    <li><a href="/o-banku/relacje-inwestorskie"  
+            
+            
+        >
+			
+	        
+			<span>Relacje inwestorskie</span>
+	    </a></li>
+    
+	    <li><a href="/o-banku/serwis-ekonomiczny"  
+            
+            
+        >
+			
+	        
+			<span>Serwis ekonomiczny</span>
+	    </a></li>
+    
+	    <li><a href="/o-banku/marze-walutowe-dla-kart"  
+            
+            
+        >
+			
+	        
+			<span>Marże walutowe dla kart</span>
+	    </a></li>
+    
+	    <li><a href="/o-banku/informacje-wymagane-prawem"  
+            
+            
+        >
+			
+	        
+			<span>Informacje wymagane prawem</span>
+	    </a></li>
+    
+	    <li><a href="/o-banku/nieruchomosci-millennium"  
+            
+            
+        >
+			
+	        
+			<span>Nieruchomości</span>
+	    </a></li>
+    
+	    <li><a href="/o-banku/franczyza"  
+            
+            
+        >
+			
+	        
+			<span>Franczyza</span>
+	    </a></li>
+    </ul></div> 
+
+
+			
+		</div>
+
+		
+
+	
+
+
+
+						</div>
+					
+				
+			
+		
+	
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+    </div>
+</div>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+            </div>
+            <div class="col-xs-12 col-md-4 col-lg-3 right">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_WC_FOOTER_QUOTATIONS_">
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_WC_FOOTER_QUOTATIONS"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<div class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_WC_FOOTER_QUOTATIONS">
+
+
+    <div class="portlet-content">
+
+            <div class="autofit-float autofit-row portlet-header">
+
+                    <div class="autofit-col autofit-col-end">
+                        <div class="autofit-section">
+                            <div class="visible-interaction">
+
+	
+
+	
+</div>
+                        </div>
+                    </div>
+            </div>
+
+        
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+
+						
+
+						<div class="" data-fragments-editor-item-id="10109-27142244" data-fragments-editor-item-type="fragments-editor-mapped-item" >
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article " data-analytics-asset-id="WC_FOOTER_QUOTATIONS" data-analytics-asset-title="Kursy walut" data-analytics-asset-type="web-content">
+			
+
+			<wc-quotations-table 
+    data-link="https://www.bankmillennium.pl/o-banku/serwis-ekonomiczny/kursy-walut" 
+    data-link-text="Zobacz wszystkie"
+    data-portal-api-url="https://portal.api.bankmillennium.pl/bm/app/portal/views/public/fxrates/getMainFxRates"
+></wc-quotations-table>
+
+			
+		</div>
+
+		
+
+	
+
+
+
+						</div>
+					
+				
+			
+		
+	
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+    </div>
+</div>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+            </div>
+            <div class="col-xs-12 col-md-8 offset-md-4 col-lg-3 last">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_SC_FOOTER_MIDDLE_COL3_">
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_SC_FOOTER_MIDDLE_COL3"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<div class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_SC_FOOTER_MIDDLE_COL3">
+
+
+    <div class="portlet-content">
+
+            <div class="autofit-float autofit-row portlet-header">
+
+                    <div class="autofit-col autofit-col-end">
+                        <div class="autofit-section">
+                            <div class="visible-interaction">
+
+	
+
+	
+</div>
+                        </div>
+                    </div>
+            </div>
+
+        
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+
+						
+
+						<div class="" data-fragments-editor-item-id="10109-26789686" data-fragments-editor-item-type="fragments-editor-mapped-item" >
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article " data-analytics-asset-id="SC_FOOTER_MIDDLE_COL3" data-analytics-asset-title="SC_FOOTER_MIDDLE_COL3" data-analytics-asset-type="web-content">
+			
+
+			
+<div class="column__collapse">
+    <strong class="middle__title">
+        <span class="middle__title__h3" role="heading" aria-level="3">Odpowiedzialny biznes</span>
+    </strong>
+    <ul class="collapse__list">
+	    <li><a href="/o-banku/esg"  
+            
+            
+        >
+			
+	        
+			<span>ESG</span>
+	    </a></li>
+    
+	    <li><a href="/o-banku/fundacja"  
+            
+            
+        >
+			
+	        
+			<span>Fundacja Banku Millennium</span>
+	    </a></li>
+    
+	    <li><a href="/o-banku/centrum-prasowe/mecenat-kultury"  
+            
+            
+        >
+			
+	        
+			<span>Mecenat nad kulturą</span>
+	    </a></li>
+    </ul></div> 
+<div class="column__collapse">
+    <strong class="middle__title">
+        <span class="middle__title__h3" role="heading" aria-level="3">Regulacje zewnętrzne</span>
+    </strong>
+    <ul class="collapse__list">
+	    <li><a href="https://www.bankmillennium.pl/o-banku/o-banku/mifid"  
+            
+            
+        >
+			
+	        
+			<span>MiFID</span>
+	    </a></li>
+    
+	    <li><a href="https://www.bankmillennium.pl/o-banku/o-banku/fatca"  
+            
+            
+        >
+			
+	        
+			<span>FATCA</span>
+	    </a></li>
+    
+	    <li><a href="https://www.bankmillennium.pl/o-banku/o-banku/crs"  
+            
+            
+        >
+			
+	        
+			<span>Podatki – pytania i odpowiedzi</span>
+	    </a></li>
+    
+	    <li><a href="https://www.bankmillennium.pl/o-banku/o-banku/gwarancje-bfg"  
+            
+            
+        >
+			
+	        
+			<span>Gwarancje BFG</span>
+	    </a></li>
+    
+	    <li><a href="https://www.bankmillennium.pl/klienci-indywidualni/psd2"  
+            
+            
+        >
+			
+	        
+			<span>PSD2</span>
+	    </a></li>
+    
+	    <li><a href="https://www.bankmillennium.pl/o-banku/o-banku/wskazniki-referencyjne"  
+            
+            
+        >
+			
+	        
+			<span>Wskaźniki referencyjne</span>
+	    </a></li>
+    </ul></div> 
+
+
+			
+		</div>
+
+		
+
+	
+
+
+
+						</div>
+					
+				
+			
+		
+	
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+    </div>
+</div>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_SC_FOOTER_BOTTOM_">
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_SC_FOOTER_BOTTOM"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<div class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_SC_FOOTER_BOTTOM">
+
+
+    <div class="portlet-content">
+
+            <div class="autofit-float autofit-row portlet-header">
+
+                    <div class="autofit-col autofit-col-end">
+                        <div class="autofit-section">
+                            <div class="visible-interaction">
+
+	
+
+	
+</div>
+                        </div>
+                    </div>
+            </div>
+
+        
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+
+						
+
+						<div class="" data-fragments-editor-item-id="10109-26789645" data-fragments-editor-item-type="fragments-editor-mapped-item" >
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article " data-analytics-asset-id="SC_FOOTER_BOTTOM" data-analytics-asset-title="SC_FOOTER_BOTTOM" data-analytics-asset-type="web-content">
+			
+
+			<style>
+.sc-footer .footer__bottom--icon-links .icon-link__twitter {
+    background-color: #000000;
+    display: flex!important;
+}
+</style>
+<div class="footer__bottom row">
+	<div class="col-xs-12 col-md-6 col-lg-5">
+		<ul class="footer__bottom--links">
+			<li><a href="/ochrona-danych" target="_blank" class="links__pp">
+				<span class="acc-hide">template.externalLink.desc</span>
+				
+				<span>Ochrona danych</span>
+			</a></li>
+			<li><a href="/zastrzezenia_prawne" target="_blank" class="links__zp">
+				<span class="acc-hide">template.externalLink.desc</span>
+				
+				<span>Zastrzeżenia prawne</span>
+			</a></li>
+			<li><a href="/mapa-strony" target="_blank" class="links__map">
+				<span class="acc-hide">template.externalLink.desc</span>
+				
+				 <span>Mapa strony</span> 
+			</a></li>
+		</ul>
+	</div>
+	<div class="col-xs-12 col-md-6 col-lg-7">
+		<div class="footer__bottom--copy">
+			<span class="copy__bic">BIC (Swift): BIGBPLPWXXX</span>
+			<span class="copy__text"><span lang="en">Copyright</span> © Bank Millennium SA</span>
+		</div>
+		<ul class="footer__bottom--icon-links">
+				<li><a class="icon-link icon-link__goodie" href="https://goodie.pl/?utm_source=bankmillennium.pl&utm_medium=footericon&utm_campaign=BM" rel="nofollow" target="_blank">
+					<span class="acc-hide">template.externalLink.desc</span>
+    					<span class="acc-hide" lang="en">Goodie</span>
+					<i class="icon icon--i-goodie-footer" aria-hidden="true"></i>
+				</a></li>
+				<li><a class="icon-link icon-link__twitter" href="https://twitter.com/@BankMillennium" rel="nofollow" target="_blank">
+				    <img
+																		src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' viewBox='0 0 1200 1227' fill='none'%3E%3Cpath d='M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z' fill='white'/%3E%3C/svg%3E"
+                                    alt="Twitter" lang="en" style="margin: 4px;">
+					<span class="acc-hide">template.externalLink.desc</span>
+					    <span class="acc-hide" lang="en">Twitter</span>
+					
+				</a></li>
+				<li><a class="icon-link icon-link__youtube" href="https://www.youtube.com/user/BankMillennium" rel="nofollow" target="_blank">
+					<span class="acc-hide">template.externalLink.desc</span>
+					    <span class="acc-hide" lang="en">Youtube</span>
+					<i class="icon icon--i-youtube-footer" aria-hidden="true"></i>
+				</a></li>
+				<li><a class="icon-link icon-link__linkedin" href="https://www.linkedin.com/company/bank-millennium" rel="nofollow" target="_blank">
+					<span class="acc-hide">template.externalLink.desc</span>
+					    <span class="acc-hide" lang="en">Linkedin</span>
+					<i class="icon icon--i-linkedin-footer" aria-hidden="true"></i>
+				</a></li>
+
+		</ul>
+	</div>
+</div>
+<svg class="acc-hide">
+<style>
+@media not all and (min-resolution:.001dpcm) { @supports (-webkit-appearance:none) {
+    html, body { height: auto !important; width: 100% !important; min-height: auto !important; }
+    html { overflow-x: hidden; }
+    body { overflow-x: hidden; }
+}}
+</style>
+</svg>
+
+			
+		</div>
+
+		
+
+	
+
+
+
+						</div>
+					
+				
+			
+		
+	
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+    </div>
+</div>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+</footer>
+    </div>
+
+            <nav class="mobile sc-mobile-nav sc-mobile-nav--close" aria-label="mobile"><a href="#!mobile-menu"
+                    class="icon--f-map-list offset-icon clear-button"></a>
+                <ul class="business-line"></ul>
+                <div class="buttons"></div>
+                <ul class="business-line business-line--offscreen"></ul>
+                <script src="/dist/assets/scHeader/mobile-nav-generator.js?ts=1700309198050"></script>
+            </nav>
+            <div id="lpButtonDivSmall" class="g-text-right bm-chat-button"></div>
+            <div id="lpButtonDivLarge" class="bm-chat-tab"></div>
+</div>
+
+
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            var genesysScript = document.createElement('script');
+            genesysScript.src = genesysChatConfig.genesysScriptUrl;
+            document.body.appendChild(genesysScript);
+
+            genesysScript.onload = function () {
+                CXBus.configure({
+                    pluginsPath: genesysChatConfig.chatPluginsUrl
+                });
+                CXBus.loadPlugin('widgets-core');
+            }
+        });
+    </script>
+
+
+</body>
+</html>
+
+		
+	
+

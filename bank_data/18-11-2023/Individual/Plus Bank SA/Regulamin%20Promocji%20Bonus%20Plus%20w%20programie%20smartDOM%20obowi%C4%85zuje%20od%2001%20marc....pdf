@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="pl"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="pl"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="pl"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="pl"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+                	<title>Plus Bank - kredyt, konto bankowe, lokata</title>
+        	<meta property="og:title" content="Plus Bank - kredyt, konto bankowe, lokata" />
+    	
+    	        	<meta name="description" content="Nowoczesny i przyjazny bank. Najlepsze konta internetowe, kredyty, lokaty dla firm i klientów indywidualnych.">
+        	<meta property="og:description" content="Nowoczesny i przyjazny bank. Najlepsze konta internetowe, kredyty, lokaty dla firm i klientów indywidualnych.">
+        		
+			    	<link rel="canonical" href="https://plusbank.pl" />
+	    
+        <meta property="og:image" content="https://plusbank.pl/img/plusbank-logo.jpg" />
+        <meta property="og:url" content="https://plusbank.pl/" />
+		<meta property="og:type" content="company" />
+
+		<link rel="icon" href="favicon.ico" type="image/x-icon" />
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="https://use.typekit.net/tck6mhv.css">
+        
+        <link rel="stylesheet" href="/css/normalize.css" media="none" onload="if(media!='all')media='all'">
+		<link rel="stylesheet" href="/css/jquery-ui.min.css">
+		<link rel="stylesheet" href="/css/main-1647936766.css">
+		<link rel="stylesheet" href="/css/new-1695039014.css">
+		<link rel="stylesheet" href="/css/final.css">
+        
+        <link rel="stylesheet" href="/mediaelement/build/mediaelementplayer.css" />
+
+        <link rel="manifest" href="/manifest.json">
+		<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+		<script src="/js/modernizr.custom.47105.js"></script>
+
+    </head>
+    <body>
+
+		<div id="header">
+			<a href="/" id="logo"></a>
+			<div id="log_and_help">
+				<a href="https://plusbank24.pl" target="_blank" id="logowanie">Logowanie</a>
+				<a href="https://secure.plusbank.pl/obsluga-klienta/#napisz" target="_blank" id="napisz_do_nas">Napisz</a>
+			</div>
+						<form action="https://plusbank.pl/wyszukiwarka" method="post" accept-charset="utf-8" id="szukaj">				<input type="text" name="text" value=""  />				<input type="submit" name="submit" value=""  />			</form>									<div class="cb"></div>
+			<!-- <a href="https://www.facebook.com/PlusBankPL" target="_blank" id="fb_icon"><img src="/img/fb_2020.png" /></a> -->
+			<ul id="menu">
+				<li class=""><a href="/o-banku" class="">O Banku</a>
+					<ul class="">
+																										<li><a class=" " href="/o-banku/informacje-o-banku" >Informacje o Banku</a></li>
+																											<li><a class=" " href="/o-banku/obowiazek-informacyjny" >Obowiązek informacyjny</a></li>
+																											<li><a class=" " href="/o-banku/bankowy-fundusz-gwarancyjny" >Bankowy Fundusz Gwarancyjny</a></li>
+																											<li><a class=" " href="/o-banku/jakosc-i-reklamacje" >Jakość i reklamacje</a></li>
+																											<li><a class=" " href="/o-banku/arbiter-bankowy" >Arbiter bankowy</a></li>
+																											<li><a class="last " href="/o-banku/dzialalnosc-charytatywna" >Działalność charytatywna</a></li>
+																		</ul>
+				</li>
+				<li><a href="/witamy" class="">Witamy</a>
+				<li class=""><a href="/oferta-dla-ciebie" class="">Oferta dla Ciebie</a>
+					<ul>
+																									<li><a class=" " href="/oferta-dla-ciebie/konto-osobiste" >Konto osobiste</a></li>
+																									<li><a class=" " href="/oferta-dla-ciebie/lokaty" >Lokaty</a></li>
+																									<li><a class=" " href="/oferta-dla-ciebie/kredyty" >Kredyty</a></li>
+																									<li><a class=" " href="/oferta-dla-ciebie/karty-platnicze" >Karty płatnicze</a></li>
+																									<li><a class=" " href="http://www.cyfrowypolsat.pl/" rel="nofollow" target="_blank" >Oferta Polsat Box</a></li>
+																									<li><a class=" " href="http://www.plus.pl" rel="nofollow" target="_blank" >Oferta Plusa</a></li>
+																									<li><a class=" " href="/oferta-dla-ciebie/bankowosc-elektroniczna" >Bankowość elektroniczna</a></li>
+																									<li><a class="last " href="/oferta-dla-ciebie/produkty-wycofane" >Produkty wycofane</a></li>
+																	</ul>
+				</li>
+				<li class=""><a href="/oferta-dla-firmy" class="">Oferta dla firmy</a>
+					<ul>
+																									<li><a class=" " href="/oferta-dla-firmy/rachunki" >Rachunki</a></li>
+																									<li><a class=" " href="/oferta-dla-firmy/lokaty" >Lokaty</a></li>
+																									<li><a class=" " href="/oferta-dla-firmy/karty-platnicze" >Karty płatnicze</a></li>
+																									<li><a class=" " href="/oferta-dla-firmy/produkty-transakcyjne" >Produkty transakcyjne</a></li>
+																									<li><a class=" " href="/oferta-dla-firmy/bankowosc-elektroniczna" >Bankowość elektroniczna</a></li>
+																									<li><a class="last " href="/oferta-dla-firmy/korona-wirus" >Korona wirus</a></li>
+																	</ul>
+				</li>
+				<!-- <li><a href="/ubezpieczenia" class="">Ubezpieczenia</a></li> -->
+			</ul>
+			<div class="cb menu_h"></div>
+		</div>
+		<div id="content" class="beta">
+			<div id="wrapper">        		
+
+
+        <div id="center">
+		    <div class="rslider_contatiner">
+		    	<ul class="rslides" id="slider4">
+		      				      										<li>
+								<a rel="nofollow" href="/pb/redirect/192" target="_blank">
+																		<img class="b-1" src="/img/slider/fa7935116673905d89587858d7cccd25.jpg" alt="slider-item">
+
+																		<img class="b-t" src="/img/slider/1940668b7090326b22682980b0a48ba5.png" alt="slider-item">
+
+																		<img class="b-4" src="/img/slider/ff5bfa7fc43bff869298397309619e3c.jpg" alt="slider-item">
+
+																		<img class="b-3" src="/img/slider/18b9332e14658f406832c074836c2b61.jpg" alt="slider-item">
+								</a>
+							</li>
+								      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      				      					      						</ul>
+			</div>
+
+			<a id="beta_box_1" class="beta_box box_50 box_50_left" href=" https://plusbank.pl/oferta-dla-ciebie/karty-platnicze" style="background: url(/img/userfiles/2ff678d6e1b9635b7b7a60324bd5d8e0.png); background-size: cover; background-position: center;">
+				<div class="border">
+					<h4>MASTERCARD DEBIT</h4>
+				</div>
+			</a>
+
+			<div id="beta_box_2" class="beta_box box_50_right box_25_news">
+				<h4>Aktualności</h4>
+				<ul id="vertical">
+					<li>
+																							<a href="/o-banku/biuro-prasowe/aktualnosci/lista-oddzialow-partnerskich--informacja-o-godzinach-funkcjonowania-obslugi-bankowej-"><br class="br_mobile"/><span class="m-data">2023-11-17</span><br/><span class="m-content">LISTA ODDZIAŁÓW PARTNERSKICH (informacja o godzinach funkcjonowania obsługi bankowej)</span></a>
+																														<a href="/o-banku/biuro-prasowe/aktualnosci/komunikat-dot--zawieszenia-splaty-kredytu-hipotecznego"><span class="m-data">2022-07-27</span><br/><span class="m-content">Komunikat dot. zawieszenia spłaty kredytu hipotecznego</span></a>
+																														<a href="/o-banku/biuro-prasowe/aktualnosci/informacja-prasowa-w-sprawie-zmian-do-moratorium-pozaustawowego"><span class="m-data">2021-02-23</span><br/><span class="m-content">Informacja prasowa w sprawie zmian do moratorium pozaustawowego</span></a>
+																																																																									</li>
+					<!-- <li>
+																																																																										<a href="/o-banku/biuro-prasowe/aktualnosci/ii-edycja-moratorium-pozaustawowego---od-18-stycznia-2021-r--do-31-marca-2021-r-"><br class="br_1200"/><br class="br_mobile"/><br class="br_mobile"/><span class="m-data">2021-01-11</span><br/><span class="m-content">II edycja moratorium pozaustawowego - od 18 stycznia 2021 r. do 31 marca 2021 r.</span></a>
+																														<a href="/o-banku/biuro-prasowe/aktualnosci/wazna-informacja--prosimy-o-zachowanie-szczegolnej-ostroznosci"><span class="m-data">2020-12-16</span><br/><span class="m-content">WAŻNA INFORMACJA: PROSIMY O ZACHOWANIE SZCZEGÓLNEJ OSTROŻNOŚCI</span></a>
+																														<a href="/o-banku/biuro-prasowe/aktualnosci/przedluzenie-okresu-obowiazywania-jednolitych-zasad-oferowania-narzedzi-pomocowych-przez-banki---moratorium-pozaustawowego"><span class="m-data">2020-06-30</span><br/><span class="m-content">Przedłużenie okresu obowiązywania jednolitych zasad oferowania narzędzi pomocowych przez banki – moratorium pozaustawowego</span></a>
+																						</li> -->
+				</ul>
+			</div>
+
+			<div class="cb sep-tab"></div>
+
+			<div class="beta_box box_50_left" id="b_2020_3">
+				<a href="/oferta-dla-ciebie/karty-platnicze">
+					KARTY PŁATNICZE
+					<br/><br/><br/>
+					<img src="/img/karty_2020.png" />
+				</a>
+				<a href="/oferta-dla-ciebie/bankowosc-elektroniczna">
+					BANKOWOŚĆ MOBILNA
+					<br/><br/><br/>
+					<img src="/img/telefon_2020.png" />
+				</a>
+				<a href="/oddzialy-partnerskie-i-bankomaty">
+					PLACÓWKI I&nbsp;BANKOMATY
+					<br/><br/><br/>
+					<img src="/img/bankomat_2020.png" />
+				</a>
+			</div>
+
+			<a id="beta_box_5" class="beta_box box_50_right" href="https://plusbank.pl/oferta-dla-ciebie/lokaty" style="background: url(/img/userfiles/lokaty.jpg); background-size: cover !important;">
+				<div class="border">
+					<h4>Lokaty</h4>
+				</div>
+			</a>
+
+			<div class="cb"></div>
+
+		</div>			</div>
+			<div class="clearfix"></div>
+		</div>
+
+		<div class="footer_2020">
+			<div class="content">
+				<div><h4>OBSŁUGA KLIENTA</h4></div>
+				<div><a href="https://secure.plusbank.pl/obsluga-klienta/#napisz"><img src="/img/mail.svg"> NAPISZ</a></div>
+				<div><a href="https://secure.plusbank.pl/obsluga-klienta/"><img src="/img/phone.svg"> ZADZWOŃ</a></div>
+				<div><a href="/oddzialy-partnerskie-i-bankomaty"><img src="/img/localization.svg"> ZNAJDŹ NAS</a></div>
+			</div>
+		</div>
+
+		<div id="footer" class="footer_beta">
+			<a href="/kontakt" id="f_kontakt">Kontakt</a>
+			<ul id="f_menu">
+																		<li>
+						<a class="first" href="/mapa-serwisu">Mapa serwisu</a>
+					</li>
+																								<li>
+						<a  href="/o-banku/informacje-o-banku/aktualnosci">Aktualności</a>
+					</li>
+																								<li>
+						<a  href="/o-banku">O Banku</a>
+					</li>
+																								<li>
+						<a  href="/bezpieczenstwo">Bezpieczeństwo</a>
+					</li>
+																								<li>
+						<a  href="/o-banku/jakosc">Jakość i reklamacje</a>
+					</li>
+																																						<li>
+						<a  href="/archiwum">Archiwum</a>
+					</li>
+																								<li>
+						<a  href="/praca">Praca</a>
+					</li>
+																																																				<li>
+						<a  href="https://plusbank.pl/przydatne-linki">Linki</a>
+					</li>
+																								<li>
+						<a  href="/oddzialy-partnerskie-i-bankomaty">Bankomaty</a>
+					</li>
+																																																				<li>
+						<a  href="https://plusbank.pl/o-banku/informacje-o-banku#blok_2024">Komunikaty</a>
+					</li>
+																								<li>
+						<a  href="https://secure.plusbank.pl/obsluga-klienta/#napisz">Kontakt</a>
+					</li>
+																								<li>
+						<a class="last" href="/rodo">RODO</a>
+					</li>
+																	</ul>
+			<div class="cb"></div>
+			<!-- <a href="http://www.hotchili.pl" class="hc_logo" target="_blank"><img src="/img/hotchili-new.png" width="89" height="38" alt="Hotchili" /></a> -->
+			<ul id="social">
+				<!-- <li><a href="https://www.facebook.com/PlusBankPL" rel="nofollow" target="_blank"><img src="/img/fb-new.png" width="30" height="30" alt="fb-plusbank" /></a></li> -->
+				<!-- <li><a href="https://plus.google.com/u/0/+PlusBankSA/posts" rel="nofollow" target="_blank"><img src="/img/plus-new.png" width="35" height="30" alt="google-plusbank" /></a></li> -->
+				<!-- <li><a href="https://twitter.com/_PlusBank" target="_blank" rel="nofollow"><img src="/img/tw-new.png" width="30" height="30" alt="twitter-plusbank" /></a></li> -->
+			</ul>
+			<div class="cb"></div>
+			<br/>
+			<div id="copy">
+				copyright PlusBank 2023			</div>
+		</div>
+
+		
+		
+	 		<div id="recc" style="">
+				<div class="recc_inner">
+					<div id="recc_close">X</div>
+										<form action="https://secure.plusbank.pl/polecamy/mail.php" method="post" accept-charset="utf-8" id="pp_form">										<div>
+						<input type="text" name="mail" value="" placeholder="adres e-mail znajomego" id="p_mail" required="required" class="required"  />					</div>
+										
+										
+					<textarea name="message" cols="40" rows="10" placeholder="Myślę, że ta strona Cię zainteresuje: http://plusbank.pl/" id="p_message" >Myślę, że ta strona Cię zainteresuje: http://plusbank.pl/</textarea>					
+<input type="hidden" name="red" value="http://plusbank.pl/" />
+					
+<input type="hidden" name="hash" value="3c94f08d7545e3e04decea204d88bc6dcb2b879a" />
+					<input type="submit" name="sub" value="Wyślij"  />					</form>				</div>
+ 		</div>
+
+		        <script src="/js/jquery.min.js"></script>
+		<script src="/js/jquery-ui.min.js"></script>
+		<script src="/mediaelement/build/mediaelement-and-player.min.js"></script>
+        <script src="/js/plugins-1619507924.js"></script>
+        <script src="/js/main-1619507925.js"></script>
+        <script src="/js/beta-main.js"></script>
+        <script src="/js/kg-calculator.js"></script>
+
+		<script type="text/javascript">
+		var evideCookieNotifyMssage = '<div id="evideCookiesNotify"><div class="textc">Na stronie internetowej PLUS BANK S.A. pliki cookies i inne technologie używane są w celu zarządzania danymi użytkowników, uwierzytelnianiem, nawigacją oraz innymi funkcjami niezbędnymi do prawidłowego jej funkcjonowania, opisanymi szczegółowo w <a href="/przydatne-linki">Polityce prywatności i wykorzystywania plików cookies</a>. W programie służącym do przeglądania stron internetowych (np. Firefox, Chrome, Internet Explorer lub innej) w dowolnym momencie można zmienić ustawienia dotyczące plików cookies, w tym wyłączyć ich obsługę. Pamiętaj, że zmiana ta może spowodować brak dostępu do niektórych funkcji Serwisu. Dalsze korzystanie z Serwisu oznacza zgodę na wykorzystanie plików cookies zgodnie z aktualnymi ustawieniami przeglądarki internetowej. Więcej informacji o cookies i wykorzystaniu podobnych technologii mających na celu dostosowanie naszej strony internetowej do indywidualnych potrzeb można znaleźć w <a href="/content/107">Polityce Cookie</a>.<a rel="nofollow" href="#" id="evideCookieNotifyClose" title="Zamknij" style="position: absolute;text-decoration: none;">[x]</a></div></div>';
+		
+		function evideSetCookie(cookieName,cookieValue,nDays) {var today = new Date(); var expire = new Date();if (nDays==null || nDays==0) nDays=365;expire.setTime(today.getTime() + 3600000*24*nDays);document.cookie = cookieName+"="+escape(cookieValue)+ ";expires="+expire.toGMTString();}
+		function evideGetCookie(cookieName){var i,x,y,ARRcookies=document.cookie.split(";");for (i=0;i<ARRcookies.length;i++){x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==cookieName){return unescape(y);}}}
+		(function($){if(evideGetCookie('evideCookiesNotify')!='hide'){$('body').prepend(evideCookieNotifyMssage);$('#evideCookieNotifyClose').click(function(){evideSetCookie('evideCookiesNotify','hide');$('#evideCookiesNotify').hide();});}})(jQuery);
+	</script>
+
+				
+
+<script>
+    if($('html').hasClass('lt-ie9'))
+    {
+        $(function() {
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = document.location.protocol + '//plusbank.pl/js/ie8.js';
+
+        document.getElementsByTagName('head')[0].appendChild(script)
+        });
+    }
+    else if($('html').hasClass('no-csscalc'))
+    {
+        $(function() {
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = document.location.protocol + '//plusbank.pl/js/no-calc.js';
+
+        document.getElementsByTagName('head')[0].appendChild(script)
+        });
+    }
+</script>				<div class="coo_wrap">
+			<div class="coo_frame">
+				<div class="coo_content">
+					<div class="coo_head">Drogi użytkowniku</div>
+					<div class="coo_scroll">
+						<div class="coo_sc">
+							Na stronie internetowej PLUS BANK S.A. z siedzibą w Warszawie, Al. Stanów Zjednoczonych 61A, 04-028 Warszawa, pliki cookies (ciasteczka) używane są w celu zarządzania danymi użytkowników, uwierzytelnianiem, nawigacją oraz innymi funkcjami niezbędnymi do prawidłowego jej funkcjonowania, opisanymi szczegółowo w <a href="https://plusbank.pl/przydatne-linki" style="color:#000" target="_blank">Polityce prywatności i wykorzystywania plików cookies w serwisach internetowych PLUS BANK S.A</a>. W programie służącym do przeglądania stron internetowych (przeglądarce internetowej np. Firefox, Chrome, Internet Explorer lub innej) w dowolnym momencie można zmienić ustawienia dotyczące plików cookies, w tym wyłączyć obsługę plików cookies. Pamiętaj, że zmiana ta może spowodować brak dostępu do niektórych funkcji Serwisu.<br/><br/>
+
+							Użytkownik, który jedynie przegląda Serwis i zapoznaje się z treściami ogólnodostępnymi, nie musi informować nas o swojej tożsamości. Niemniej jednak należy mieć na uwadze, że za dane osobowe mogą zostać uznane także dane zawarte w plikach cookies, jeśli możliwe jest ich pośrednie lub bezpośrednie powiązanie z osobą fizyczną. Zbieranie i przetwarzanie danych osobowych w szerszym zakresie może mieć miejsce w związku z korzystaniem przez Użytkownika z usług świadczonych drogą elektroniczną w Serwisie (np. w celu skorzystania z formularza kontaktowego, złożeniem wniosku dotyczącego produktu bankowego, wyrażenia zgody na przetwarzania danych osobowych gdy nie jesteś Klientem Banku itp.). Podanie danych osobowych jest również niezbędne do korzystania z konta w bankowości elektronicznej. Informujemy, że nie jest możliwe anonimowe korzystanie z usług, dostępnych w niepublicznej części Serwisu, związanych z korzystaniem z bankowości elektronicznej (dostęp do konta).
+						</div>
+					</div>
+					<div class="coo_info">Więcej informacji znajduje się w <a target="_blank" style="color:#000" href="https://plusbank.pl/przydatne-linki">Polityce prywatności i wykorzystywania plików cookies w serwisach internetowych PLUS BANK S.A.</a></div>
+					<div class="coo_ok">Przejdź do serwisu</div>
+				</div>
+			</div>
+		</div>
+		<style>
+			.coo_ok
+			{
+				background: #66b138;
+				width: 265px;
+				height: 45px;
+				line-height: 45px;
+				text-align: center;
+				color: #fff;
+				font-size: 14px;
+				cursor: pointer;
+				margin: auto;
+			    bottom: 30px;
+			    position: absolute;
+			    left: 50%;
+			    transform: translateX(-50%);
+			    font-family: DaxWebPro-Bold;
+			}
+
+			.coo_head
+			{
+				font-size: 25px;
+				text-align: center;
+			}
+
+			.coo_info
+			{
+				font-size: 10px;
+				font-family: DaxWebPro-Bold;
+				bottom: 85px;
+			    position: absolute;
+			    width: 86%;
+			}
+
+			.coo_wrap
+			{
+				position: fixed;
+			    top: 0;
+			    left: 0;
+			    right: 0;
+			    bottom: 0;
+			    background: rgba(0,0,0,0.62);
+			    z-index: 100;
+			}
+
+			.coo_frame
+			{
+				width: 650px;
+				position: relative;
+				height: 405px;
+				left: 50%;
+				top: 50%;
+				background: #fff;
+				transform:translate(-50%,-50%);
+				box-sizing: border-box;
+				padding: 13px;
+			}
+
+			.coo_content
+			{
+				border: 1px solid #e7e7e7;
+				width: 100%;
+				height: 100%;
+				padding: 20px 35px;
+				box-sizing: border-box;
+			}
+
+			.coo_scroll
+			{
+				height: 195px;
+			    width: 100%;
+			    background: #f9f9f9;
+			    overflow-y: scroll;
+			    font-size: 10px;
+			    margin-top: 10px;
+			    box-sizing: border-box;
+			    padding: 10px;
+			    text-align: justify;
+			}
+
+			.coo_sc
+			{
+				padding: 15px;
+				box-sizing: border-box;
+			}
+
+			@media (max-width: 650px)
+			{
+				.coo_frame
+				{
+					width: 95%;
+				}
+
+				.coo_content, .coo_sc
+				{
+					padding: 5px;
+				}
+			}
+
+		</style>
+
+		<script>
+			$(document).ready(function() {
+			    $('.coo_ok').click(function(){
+			    	Cookies.set('coo', 1);
+			      	$('.coo_wrap').hide();
+			    });
+
+			    $('.coo_scroll').jScrollPane();
+			});
+		</script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jScrollPane/2.2.1/script/jquery.jscrollpane.min.js"></script>
+		<script src="/js/jquery.mousewheel.js"></script>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jScrollPane/2.2.1/style/jquery.jscrollpane.min.css" />
+		<style>
+			.jspDrag
+			{
+				background: #66b138;
+			}
+
+			.jspTrack
+			{
+				background: #e7eae4;
+			}
+
+			.jspVerticalBar
+			{
+				width: 7px;
+			}
+		</style>    </body>
+</html>
