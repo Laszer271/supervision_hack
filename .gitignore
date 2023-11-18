@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+bank_data/
+data/
+
 # Distribution / packaging
 .Python
 build/
