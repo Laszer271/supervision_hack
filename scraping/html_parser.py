@@ -2,6 +2,23 @@ import requests
 from bs4 import BeautifulSoup
 
 
+def proces_links(links, base_url, only_pdfs=False):
+    new_links = []
+    for link in links:
+        link = dict(link) # to copy by value
+
+        if only_pdfs and not link['href'].endswith('.pdf'):
+            continue
+
+        if not link['href'].startswith('http'):
+            if not link['href'].startswith('/'):
+                link['href'] = '/' + link['href']
+            link['href'] = base_url + link['href']
+
+        new_links.append(link)
+    return new_links
+
+
 class HTMLBankParser():
 
     def __init__(self, url):
