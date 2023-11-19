@@ -61,16 +61,21 @@ def do_qa(all_chunks, sim_phrase, question, postprocess_pattern, replace_pattern
     semantic_search = SemanticSearch()
     semantic_search.vectorize_text(strings=all_chunks)
     result = semantic_search.search(sim_phrase, k=1)
+
+    del semantic_search
+
     if verbose:
         print(len(result))
 
     context = result[0][0].page_content
+    assert any(context in chunk for chunk in all_chunks)
+
     pred = pipe(question=question, context=context, do_sample=False, top_k=1)
     pred = pred['answer']
 
     print('---')
     print('Question:', question)
-    # print('Context:', context)
+    print('Context:', context)
     print('Answer:', pred)
     print('postprocess_pattern:', postprocess_pattern)
     print('replace_patterns:', replace_patterns)
@@ -213,8 +218,8 @@ for bank_name in df_urls['Name'].unique():
 
         urls = df_urls.loc[df_urls['Name'] == bank_name, 'Individual'].dropna().tolist()
         print('urls:', urls)
-        lokata_data = []
-        oszczed_data = []
+        lokata_data_all = []
+        oszczed_data_all = []
         for url in urls:
             base_url = '/'.join(url[:3])
             parser = HTMLBankParser(url)
@@ -223,12 +228,12 @@ for bank_name in df_urls['Name'].unique():
             lokata_links = proces_links(lokata_links, base_url, only_pdfs=True)
             oszczed_links = proces_links(oszczed_links, base_url, only_pdfs=True)
 
-            lokata_data.extend(choose_best_data(lokata_data, lokata_table, lokata_links, 'lokata'))
-            oszczed_data.extend(choose_best_data(oszczed_data, oszczed_table, oszczed_links, 'oszczędnościowe'))
+            lokata_data_all.extend(choose_best_data(lokata_data, lokata_table, lokata_links, 'lokata'))
+            oszczed_data_all.extend(choose_best_data(oszczed_data, oszczed_table, oszczed_links, 'oszczędnościowe'))
 
 
-        lokata_chunks = get_chunks(lokata_data, chunker, verbose=verbose)
-        oszczed_chunks = get_chunks(oszczed_data, chunker, verbose=verbose)
+        lokata_chunks = get_chunks(lokata_data_all, chunker, verbose=verbose)
+        oszczed_chunks = get_chunks(oszczed_data_all, chunker, verbose=verbose)
 
         sim_phrase = "wysokość oprocentowania promocyjnego na lokacie w %"
         question = 'Jakie lokaty oferuje bank?'
@@ -238,14 +243,21 @@ for bank_name in df_urls['Name'].unique():
         d['Client type'] = client_type
         d['Date'] = date
 
+        print('chunks:', oszczed_chunks)
+
         if lokata_chunks:
             d_lokata = dict(d) # copy
             questions_copy = dict(QUESTIONS_LOKATA)
             for key, args in questions_copy.items():
                 if key in ['MaxPLN', 'OfferType']:
                     args = dict(args)
-                    args['sim_phrase'] = args['sim_phrase'].format(d_lokata['HihgestInterest']).replace('.', ',')
-                    args['question'] = args['question'].format(d_lokata['HihgestInterest']).replace('.', ',')
+                    perc = d_lokata['HihgestInterest']
+                    if perc == -1:
+                        perc = 'największym'
+                    perc = str(perc).replace('.', ',')
+
+                    args['sim_phrase'] = args['sim_phrase'].format(perc)
+                    args['question'] = args['question'].format(perc)
                 d_lokata[key] = do_qa(lokata_chunks, **args)
             all_results.append(d_lokata)
 
@@ -255,8 +267,13 @@ for bank_name in df_urls['Name'].unique():
             for key, args in questions_copy.items():
                 if key in ['MaxPLN', 'OfferType']:
                     args = dict(args)
-                    args['sim_phrase'] = args['sim_phrase'].format(d_oszczed['HihgestInterest']).replace('.', ',')
-                    args['question'] = args['question'].format(d_oszczed['HihgestInterest']).replace('.', ',')
+                    perc = d_lokata['HihgestInterest']
+                    if perc == -1:
+                        perc = 'największym'
+                    perc = str(perc).replace('.', ',')
+
+                    args['sim_phrase'] = args['sim_phrase'].format(perc)
+                    args['question'] = args['question'].format(perc)
                 d_oszczed[key] = do_qa(oszczed_chunks, **args)
             all_results.append(d_oszczed)
 

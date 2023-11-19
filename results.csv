@@ -1,42 +1,37 @@
 Bank,Client type,Date,HihgestInterest,Length,MaxPLN,OfferType
-Santander Bank Polska SA,Individual,18-11-2023,-1.0,3,-1,Oprocentowanie promocyjne
-Santander Bank Polska SA,Individual,18-11-2023,4.0,1,1000000,"nadwyżka powyżej 1 000 000 zł 
- 1,00 %"
-Santander Bank Polska SA,Corporation,18-11-2023,-1.0,3,4,"Konto oszczędnościowe Private Banking 
- Saldo"
-Santander Bank Polska SA,Corporation,18-11-2023,4.0,1,1000000,"nadwyżka powyżej 1 000 000 zł 
- 1,00 %"
-Bank Pekao SA ,Individual,18-11-2023,-1.0,-1,4,"Konto oszczędnościowe Private Banking 
- Saldo"
-Bank Pekao SA ,Corporation,18-11-2023,-1.0,-1,4,"Konto oszczędnościowe Private Banking 
- Saldo"
-Bank Pocztowy SA,Individual,18-11-2023,-1.0,-1,10000,"WIBOR 3 M 
+ING Bank Śląski SA,Individual,18-11-2023,0.01,12,12,wskali
+ING Bank Śląski SA,Individual,18-11-2023,0.01,-1,5,zmienne
+ING Bank Śląski SA,Corporation,18-11-2023,0.01,12,12,wskali
+ING Bank Śląski SA,Corporation,18-11-2023,0.01,-1,5,zmienne
+Santander Bank Polska SA,Individual,18-11-2023,-1.0,4,400000,400 000 zł
+Santander Bank Polska SA,Individual,18-11-2023,4.0,1,4,"4,00 %"
+Santander Bank Polska SA,Corporation,18-11-2023,-1.0,4,400000,400 000 zł
+Santander Bank Polska SA,Corporation,18-11-2023,4.0,1,4,"4,00 %"
+Bank Pekao SA ,Individual,18-11-2023,-1.0,1,-1,"Depozyty 
+ Arkusz informacyjny"
+Bank Pekao SA ,Corporation,18-11-2023,-1.0,1,-1,"Depozyty 
+ Arkusz informacyjny"
+Bank Pocztowy SA,Individual,18-11-2023,-1.0,36,10000,"WIBOR 3 M 
  11,61 %"
-Bank Pocztowy SA,Individual,18-11-2023,4.0,11,1000000,"nadwyżka powyżej 1 000 000 zł 
- 1,00 %"
-Bank Pocztowy SA,Corporation,18-11-2023,-1.0,-1,10000,"WIBOR 3 M 
+Bank Pocztowy SA,Individual,18-11-2023,5.25,2022,10000,Łączna kwota zgromadzonych środków
+Bank Pocztowy SA,Corporation,18-11-2023,-1.0,36,10000,"WIBOR 3 M 
  11,61 %"
-Bank Pocztowy SA,Corporation,18-11-2023,4.0,11,1000000,"nadwyżka powyżej 1 000 000 zł 
- 1,00 %"
-Plus Bank SA,Individual,18-11-2023,4.0,11,1000000,"nadwyżka powyżej 1 000 000 zł 
- 1,00 %"
-Plus Bank SA,Corporation,18-11-2023,4.0,11,1000000,"nadwyżka powyżej 1 000 000 zł 
- 1,00 %"
-Santander Consumer Bank SA,Individual,18-11-2023,-1.0,36,10000,30 - dniowy okres bezodsetkowy
-Santander Consumer Bank SA,Individual,18-11-2023,4.0,11,5504,"nadwyżka powyżej 1 000 000 zł 
- 1,00 %"
-Santander Consumer Bank SA,Corporation,18-11-2023,-1.0,36,10000,30 - dniowy okres bezodsetkowy
-Santander Consumer Bank SA,Corporation,18-11-2023,4.0,11,5504,"nadwyżka powyżej 1 000 000 zł 
- 1,00 %"
-Toyota Bank Polska SA,Individual,18-11-2023,-1.0,36,10000,30 - dniowy okres bezodsetkowy
-Toyota Bank Polska SA,Individual,18-11-2023,4.0,20,5504,"nadwyżka powyżej 1 000 000 zł 
- 1,00 %"
-Toyota Bank Polska SA,Corporation,18-11-2023,-1.0,36,10000,30 - dniowy okres bezodsetkowy
-Toyota Bank Polska SA,Corporation,18-11-2023,4.0,20,5504,"nadwyżka powyżej 1 000 000 zł 
- 1,00 %"
-Alior Bank SA,Individual,18-11-2023,-1.0,36,10000,30 - dniowy okres bezodsetkowy
-Alior Bank SA,Individual,18-11-2023,4.0,20,5504,"nadwyżka powyżej 1 000 000 zł 
- 1,00 %"
-Alior Bank SA,Corporation,18-11-2023,-1.0,36,10000,30 - dniowy okres bezodsetkowy
-Alior Bank SA,Corporation,18-11-2023,4.0,20,5504,"nadwyżka powyżej 1 000 000 zł 
- 1,00 %"
+Bank Pocztowy SA,Corporation,18-11-2023,5.25,2022,10000,Łączna kwota zgromadzonych środków
+Plus Bank SA,Individual,18-11-2023,8.0,36,50000,30 - dniowy okres bezodsetkowy
+Plus Bank SA,Corporation,18-11-2023,8.0,36,50000,30 - dniowy okres bezodsetkowy
+Santander Consumer Bank SA,Individual,18-11-2023,5.0,6,1,Łatwo zakładasz i porządnie zarabiasz
+Santander Consumer Bank SA,Individual,18-11-2023,-1.0,1,12,12 mies
+Santander Consumer Bank SA,Corporation,18-11-2023,5.0,6,1,Łatwo zakładasz i porządnie zarabiasz
+Santander Consumer Bank SA,Corporation,18-11-2023,-1.0,1,12,12 mies
+Toyota Bank Polska SA,Individual,18-11-2023,6.3,1,400,400 tys. zł
+Toyota Bank Polska SA,Individual,18-11-2023,20.0,20,20,plany oszczędzania
+Toyota Bank Polska SA,Corporation,18-11-2023,6.3,1,400,400 tys. zł
+Toyota Bank Polska SA,Corporation,18-11-2023,20.0,20,20,plany oszczędzania
+Alior Bank SA,Individual,18-11-2023,30.0,31,4,"4,9 % 
+ do 31 marca 2017 r"
+Alior Bank SA,Individual,18-11-2023,30.0,2017,30,"Pobierz plik 
+ Regulamin Promocji"
+Alior Bank SA,Corporation,18-11-2023,30.0,31,4,"4,9 % 
+ do 31 marca 2017 r"
+Alior Bank SA,Corporation,18-11-2023,30.0,2017,30,"Pobierz plik 
+ Regulamin Promocji"
