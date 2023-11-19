@@ -9,8 +9,8 @@ Banks rely heavily on customer deposits to fund their lending activities. Howeve
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Deploy](#deploy)
+- [Content](#content)
 
 ## Installation
 
