@@ -1,11 +1,10 @@
-# interestGuardian
-
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+# InterestGuardian
 
 ## Overview
 
-Briefly describe the purpose and uniqueness of your project. Highlight its main functionalities or features.
+The project was created as an approach to the first task, #DEPO_PREDATOR, for the 2023 SuperVision_Hack.
 
+Banks rely heavily on customer deposits to fund their lending activities. However, there's a challenge: deposits are usually short-term, while loans extend over many years. This creates a liquidity gap, where managing the balance becomes crucial. Banks must retain existing funds while attracting new ones from the market. Supervising liquidity risk involves ensuring effective monitoring and crisis management mechanisms. If mishandled, it could lead to a rapid withdrawal of funds triggered by sources like social media, resulting in a 'run on the bank'. In such cases, emergency funding might become necessary. Our tool aims to proactively identify banks facing potential liquidity issues and alert about these risks before they escalate into disasters.
 ## Table of Contents
 
 - [Installation](#installation)
