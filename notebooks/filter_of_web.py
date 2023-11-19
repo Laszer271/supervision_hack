@@ -4,9 +4,9 @@ from bs4 import BeautifulSoup
 
 #DANE BEZPOŚREDNIO NA STRONIE
 
-url_bankowy = 'https://www.ing.pl/indywidualni/tabele-i-regulaminy/oprocentowanie/rachunki-oszczednosciowe-lokaty'
+# url_bankowy = 'https://www.ing.pl/indywidualni/tabele-i-regulaminy/oprocentowanie/rachunki-oszczednosciowe-lokaty'
 # url_bankowy = "https://www.pocztowy.pl/indywidualni/oprocentowanie"
-# url_bankowy = "https://www.credit-agricole.pl/oprocentowanie"
+url_bankowy = "https://www.credit-agricole.pl/oprocentowanie" #- z tabelek 
 
 # LINKI PDF 
 
