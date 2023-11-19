@@ -20,8 +20,8 @@ if verbose:
 
 for bank_name in df_urls['Name'].unique():
     for client_type in ['Individual', 'Corporation']:
-        if bank_name != 'Bank Ochrony Środowiska SA':   
-            continue
+        # if bank_name != 'Credit Agricole Bank Polska SA':   
+        #     continue
         if verbose:
             print('='*50)
             print('Bank name:', bank_name)
@@ -60,6 +60,10 @@ for bank_name in df_urls['Name'].unique():
             splitted = split_on_newline(soup)
             data[url] = splitted
 
+        if len(data) == 0:
+            if verbose:
+                print('No data found')
+            continue
 
         all_chunks = []
 

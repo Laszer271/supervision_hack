@@ -59,8 +59,9 @@ class TextChunker():
         buffer_len = 0
         for i, current in enumerate(enc_splitted_processed):
             assert len(current) <= self.max_len, f"Current chunk is too long: {len(current)}"
+            is_last = i == len(enc_splitted_processed) - 1
 
-            if buffer_len + len(current) <= self.max_len:
+            if (buffer_len + len(current) <= self.max_len):
                 # Add current to the buffer as long as it fits in self.max_len
                 buffer.append(current)
                 buffer_len += len(current)
@@ -74,13 +75,21 @@ class TextChunker():
                 # delete appropriate number of tokens from the buffer from left
                 to_delete = max(self.stride_len, buffer_len + len(current) - self.max_len)
                 deleted = 0
-                while deleted < to_delete:
+                while len(buffer) and (deleted < to_delete):
                     deleted += len(buffer[0])
                     buffer = buffer[1:]
                 buffer_len -= deleted
 
                 buffer.append(current)
                 buffer_len += len(current)
+
+        # additionally append the last chunk
+        assert sum([len(current) for current in buffer]) <= self.max_len, f"Current chunk is too long: {len(current)}"
+        current_chunk = '\n'.join(self.tokenizer.decode(b) for b in buffer)
+        current_chunk = current_chunk.replace('[CLS]', '').replace('[SEP]', '')
+        current_chunk = re.sub('(?<=\d), (?=\d)', ',', current_chunk)
+        current_chunk = current_chunk.strip()
+        chunks.append(current_chunk)
 
         return chunks
 
