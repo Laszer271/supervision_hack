@@ -1,4 +1,4 @@
-from scraping.pdf_handling import pdf_to_text
+from scraping.pdf_handling import pdf_to_text, get_pdf_text_from_url
 from transformers import pipeline, AutoTokenizer, AutoModelForQuestionAnswering
 from scraping.text_processing import get_raw_content, remove_non_ascii, split_on_newline, TextChunker
 from scraping.semantic_search import SemanticSearch
@@ -33,9 +33,22 @@ def choose_best_data(segments, tables, links, account_type):
 
             all_splitted.append(table)
     elif links:
-        pass
+        for link in links:
+            if verbose:
+                print('---')
+                print(len(link))
+                print(link)
+            pdf_text = get_pdf_text_from_url(link['href'])
+            pdf_text = remove_non_ascii(pdf_text)
+            if verbose:
+                print(len(link))
+
+            splitted = split_on_newline(pdf_text)
+            all_splitted.append(splitted)
     else:
         print(f'No data found for {account_type} type account')
+
+    all_splitted = [s for s in all_splitted if s]
 
     return all_splitted
 
@@ -73,13 +86,13 @@ def do_qa(all_chunks, sim_phrase, question, postprocess_pattern, replace_pattern
     pred = pipe(question=question, context=context, do_sample=False, top_k=1)
     pred = pred['answer']
 
-    print('---')
-    print('Question:', question)
-    print('Context:', context)
-    print('Answer:', pred)
-    print('postprocess_pattern:', postprocess_pattern)
-    print('replace_patterns:', replace_patterns)
-    print('output_type:', output_type)
+    # print('---')
+    # print('Question:', question)
+    # print('Context:', context)
+    # print('Answer:', pred)
+    # print('postprocess_pattern:', postprocess_pattern)
+    # print('replace_patterns:', replace_patterns)
+    # print('output_type:', output_type)
 
     if postprocess_pattern is not None:
         pred = re.match(postprocess_pattern, pred)
@@ -88,13 +101,13 @@ def do_qa(all_chunks, sim_phrase, question, postprocess_pattern, replace_pattern
         else:
             pred = None
 
-    print('Answer after postprocessing:', pred)
+    # print('Answer after postprocessing:', pred)
 
     if pred is not None:
         for pattern in replace_patterns:
             pred = re.sub(pattern[0], pattern[1], pred)
         
-    print('Answer after replacing:', pred)
+    # print('Answer after replacing:', pred)
 
     if output_type == 'float':
         if pred is not None:
@@ -127,7 +140,7 @@ def do_qa(all_chunks, sim_phrase, question, postprocess_pattern, replace_pattern
 
 
 QUESTIONS_LOKATA = {
-    'HihgestInterest': {
+    'HighestInterest': {
         'sim_phrase': "wysokość najwyższego oprocentowania promocyjnego na lokacie w %",
         'question': 'Jaka jest najwyższa wysokość oprocentowania promocyjnego na lokacie w %?',
         'postprocess_pattern': '\d+\s*((,|\.)\s*\d+)?\s*%',
@@ -148,7 +161,7 @@ QUESTIONS_LOKATA = {
         'replace_patterns': [('\s+', '')],
         'output_type': 'int'
     },
-    'OfferType': {
+    'OtherInfo': {
         'sim_phrase': 'warunki skorzystania z lokaty o oprocentowaniu {}% (np. dla nowych klientów, na nowe środki)',
         'question': 'jakie są dodatkowe warunki skorzystania z lokaty o oprocentowaniu {}% (np. tylko dla nowych klientów, na nowe środki)?',
         'postprocess_pattern': None,
@@ -159,7 +172,7 @@ QUESTIONS_LOKATA = {
 }
 
 QUESTIONS_OSZCZED = {
-    'HihgestInterest': {
+    'HighestInterest': {
         'sim_phrase': "wysokość najwyższego oprocentowania promocyjnego na koncie oszczędnościowym w %",
         'question': 'Jaka jest najwyższa wysokość oprocentowania promocyjnego na koncie oszczędnościowym w %?',
         'postprocess_pattern': '\d+\s*((,|\.)\s*\d+)?\s*%',
@@ -180,7 +193,7 @@ QUESTIONS_OSZCZED = {
         'replace_patterns': [('\s+', '')],
         'output_type': 'int'
     },
-    'OfferType': {
+    'OtherInfo': {
         'sim_phrase': 'warunki skorzystania z konta oszczędnościowego o oprocentowaniu {}% (np. dla nowych klientów, na nowe środki)',
         'question': 'jakie są dodatkowe warunki skorzystania z konta oszczędnościowego o oprocentowaniu {}% (np. tylko dla nowych klientów, na nowe środki)?',
         'postprocess_pattern': None,
@@ -191,7 +204,7 @@ QUESTIONS_OSZCZED = {
 }
 
 
-verbose = True 
+verbose = False 
 df_urls = pd.read_excel('Bank_list.xlsx', index_col=0)
 date = '18-11-2023'
 
@@ -217,11 +230,11 @@ for bank_name in df_urls['Name'].unique():
             print('Date:', date)
 
         urls = df_urls.loc[df_urls['Name'] == bank_name, 'Individual'].dropna().tolist()
-        print('urls:', urls)
+        # print('urls:', urls)
         lokata_data_all = []
         oszczed_data_all = []
         for url in urls:
-            base_url = '/'.join(url[:3])
+            base_url = '/'.join(url.split('/')[:3])
             parser = HTMLBankParser(url)
             lokata_data, oszczed_data, lokata_table, oszczed_table, lokata_links, oszczed_links = parser.get_outputs()
 
@@ -235,6 +248,9 @@ for bank_name in df_urls['Name'].unique():
         lokata_chunks = get_chunks(lokata_data_all, chunker, verbose=verbose)
         oszczed_chunks = get_chunks(oszczed_data_all, chunker, verbose=verbose)
 
+        lokata_chunks = [lc for lc in lokata_chunks if lc and not lc.isspace()]
+        oszczed_chunks = [osz for osz in oszczed_chunks if osz and not osz.isspace()]
+
         sim_phrase = "wysokość oprocentowania promocyjnego na lokacie w %"
         question = 'Jakie lokaty oferuje bank?'
 
@@ -243,15 +259,16 @@ for bank_name in df_urls['Name'].unique():
         d['Client type'] = client_type
         d['Date'] = date
 
-        print('chunks:', oszczed_chunks)
+        # print('chunks:', oszczed_chunks)
 
+        # print(lokata_data_all)
         if lokata_chunks:
             d_lokata = dict(d) # copy
             questions_copy = dict(QUESTIONS_LOKATA)
             for key, args in questions_copy.items():
-                if key in ['MaxPLN', 'OfferType']:
+                if key in ['MaxPLN', 'OtherInfo']:
                     args = dict(args)
-                    perc = d_lokata['HihgestInterest']
+                    perc = d_lokata['HighestInterest']
                     if perc == -1:
                         perc = 'największym'
                     perc = str(perc).replace('.', ',')
@@ -265,9 +282,9 @@ for bank_name in df_urls['Name'].unique():
             d_oszczed = dict(d) # copy
             questions_copy = dict(QUESTIONS_OSZCZED)
             for key, args in questions_copy.items():
-                if key in ['MaxPLN', 'OfferType']:
+                if key in ['MaxPLN', 'OtherInfo']:
                     args = dict(args)
-                    perc = d_lokata['HihgestInterest']
+                    perc = d_lokata['HighestInterest']
                     if perc == -1:
                         perc = 'największym'
                     perc = str(perc).replace('.', ',')

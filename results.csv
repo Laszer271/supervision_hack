@@ -1,4 +1,4 @@
-Bank,Client type,Date,HihgestInterest,Length,MaxPLN,OfferType
+Bank,Client type,Date,HighestInterest,Length,MaxPLN,OtherInfo
 ING Bank Śląski SA,Individual,18-11-2023,0.01,12,12,wskali
 ING Bank Śląski SA,Individual,18-11-2023,0.01,-1,5,zmienne
 ING Bank Śląski SA,Corporation,18-11-2023,0.01,12,12,wskali

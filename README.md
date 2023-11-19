@@ -14,24 +14,40 @@ Banks rely heavily on customer deposits to fund their lending activities. Howeve
 
 ## Installation
 
-Provide detailed steps on how to install, set up, and run your project locally or access it.
+Install requirements for the scraping module
+
+`pip install requirements_scraping.txt`
 
 ## Usage
 
-Include examples and instructions on how to use your project. Use code snippets or screenshots if helpful.
+Run scraping with 
 
-## Contributing
+`python scrape_all_v2.py`
 
-Offer guidelines for contributors, including how to report bugs, suggest improvements, or submit changes.
+Please note that running this script requires to have at least 4 GB of VRAM and may take up to 15 minutes 
 
-## License
+## Deploy
 
-Specify the project's license and include any necessary disclaimers or credits.
+For running our frontend first install streamlit requirements with:
 
-## Acknowledgments
+`pip install -r requirements.txt`
 
-If applicable, thank individuals, libraries, or resources that have contributed to the project.
+and then run:
 
-## Support
+`streamlit run app.py`
 
-Provide contact information or links to resources where users can find support or get help if they encounter issues.
+You can also visit our demo website here: https://interestguardian.streamlit.app/
+
+## Content
+
+The most important files are the ones located in scraping module and they are as follows:
+1. scraping/html_parser.py - for heavily parsing html documents. It's done so that we can differentiate the subject (e.g. the account type that is described in text segment) as well as to get rid of irrelevant segments.
+2. scraping/pdf_handling.py - for downloading and reading text from a pdf file.
+3. scraping/text_processing.py - for processing and splitting text into chunks ingestible by DL models.
+4. scraping/semantic_search.py - for deciding which chunk is the most important one based on semantic similarity to a query.
+
+One of the most important files are also our executive scripts:
+1. scrape_all_v2.py - script that executes the scraping process and glues everything together. It also defines and uses the QA model and some important postprocessing steps.
+2. app.y - script that hosts our simple streamlit dashboard
+
+![How our data scraping/mining process looks like](img/process.png)

@@ -3,9 +3,13 @@ selenium==4.15.2
 requests==2.31.0
 lxml==4.9.3
 transformers==4.35.2
-torch==2.1.1+cu118
-torchaudio==2.1.1+cu118
-torchvision==0.16.1+cu118
+# torch==2.1.1+cu118
+# torchaudio==2.1.1+cu118
+# torchvision==0.16.1+cu118
+--extra-index-url https://download.pytorch.org/whl/cu116
+torch==2.1.1
+torchvision==0.16.1
+torchaudio==2.1.1
 # pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 langchain==0.0.337
 sentence-transformers==2.2.2
