@@ -59,7 +59,7 @@ class TextChunker():
         buffer_len = 0
         for i, current in enumerate(enc_splitted_processed):
             assert len(current) <= self.max_len, f"Current chunk is too long: {len(current)}"
-            is_last = i == len(enc_splitted_processed) - 1
+            # is_last = i == len(enc_splitted_processed) - 1
 
             if (buffer_len + len(current) <= self.max_len):
                 # Add current to the buffer as long as it fits in self.max_len
