@@ -2,3 +2,15 @@ beautifulsoup4==4.12.2
 selenium==4.15.2
 requests==2.31.0
 lxml==4.9.3
+transformers==4.35.2
+torch==2.1.1+cu118
+torchaudio==2.1.1+cu118
+torchvision==0.16.1+cu118
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+langchain==0.0.337
+sentence-transformers==2.2.2
+chromadb==0.4.17
+plotly-express==0.4.1 # nie wiem czy potrzebne
+nbformat==5.9.2 # nie wiem czy potrzebne
+openpyxl==3.1.2
+pypdf2==3.0.1
