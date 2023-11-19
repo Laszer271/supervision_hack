@@ -12,3 +12,5 @@ sentence-transformers==2.2.2
 chromadb==0.4.17
 plotly-express==0.4.1 # nie wiem czy potrzebne
 nbformat==5.9.2 # nie wiem czy potrzebne
+openpyxl==3.1.2
+pypdf2==3.0.1
